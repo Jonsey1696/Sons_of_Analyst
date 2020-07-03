@@ -9,6 +9,9 @@ __pycache__/
 # API Keys
 api_keys.py
 
+# test data already in master
+clean_data_ver2.csv
+
 # Distribution / packaging
 .Python
 build/

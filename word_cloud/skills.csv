@@ -8,9 +8,10 @@ Statistics
 Algorithms
 Models
 Regression
-R
+ R
 Cloud
 HIVE
+Hive
 Pig
 Big Data
 NoSQL
@@ -50,3 +51,6 @@ DeepLearning
 Clustering
 ETL
 ELT
+Matlab
+scikit-learn
+TensorFlow
