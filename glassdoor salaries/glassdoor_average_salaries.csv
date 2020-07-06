@@ -1,25 +1,25 @@
 Job Title,Location,Industry,Sector,salary_average,City,State
-data scientist,"New York, NY",Advertising & Marketing,Business Services,16900,New York,NY
-data scientist,"Chantilly, VA",Research & Development,Business Services,16900,Chantilly,VA
-data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,16900,Cambridge,MA
-data scientist,"Overland Park, KS",Healthcare Services & Hospitals,Healthcare,16900,Overland Park,KS
-data scientist,"San Francisco, CA",Government Agencies,Government,16900,San Francisco,CA
-data scientist,"Chantilly, VA",Enterprise Software & Network Solutions,Information Technology,16900,Chantilly,VA
-data scientist,"Miami, FL",Enterprise Software & Network Solutions,Information Technology,16900,Miami,FL
-data scientist,"San Francisco, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,16900,San Francisco,CA
-data scientist,New Jersey,Enterprise Software & Network Solutions,Information Technology,16900,New Jersey,
-data scientist,Oregon,Food & Drink Manufacturing,Manufacturing,16900,Oregon,
-data scientist,"Chevy Chase, MD",Insurance Operators,Insurance,16900,Chevy Chase,MD
-data scientist,"Scotts Valley, CA",Healthcare Services & Hospitals,Healthcare,16900,Scotts Valley,CA
-data scientist,"Boston, MA",Consulting,Business Services,16900,Boston,MA
-data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,16900,Cambridge,MA
-data scientist,"Naperville, IL",Chemical Manufacturing,Manufacturing,16900,Naperville,IL
-data scientist,"Herndon, VA",Research & Development,Business Services,16900,Herndon,VA
-data scientist,"Hill AFB, UT",Aerospace & Defence,Aerospace & Defence,16900,Hill AFB,UT
-data scientist,"Woodbridge, NJ",Insurance Operators,Insurance,16900,Woodbridge,NJ
-data scientist,"Alexandria, VA",Research & Development,Business Services,16900,Alexandria,VA
-data scientist,"Spartanburg, SC",Lending,Finance,16900,Spartanburg,SC
-data scientist,"Ipswich, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,16900,Ipswich,MA
+data scientist,"New York, NY",Advertising & Marketing,Business Services,84500,New York,NY
+data scientist,"Chantilly, VA",Research & Development,Business Services,84500,Chantilly,VA
+data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,84500,Cambridge,MA
+data scientist,"Overland Park, KS",Healthcare Services & Hospitals,Healthcare,84500,Overland Park,KS
+data scientist,"San Francisco, CA",Government Agencies,Government,84500,San Francisco,CA
+data scientist,"Chantilly, VA",Enterprise Software & Network Solutions,Information Technology,84500,Chantilly,VA
+data scientist,"Miami, FL",Enterprise Software & Network Solutions,Information Technology,84500,Miami,FL
+data scientist,"San Francisco, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,84500,San Francisco,CA
+data scientist,New Jersey,Enterprise Software & Network Solutions,Information Technology,84500,New Jersey,
+data scientist,Oregon,Food & Drink Manufacturing,Manufacturing,84500,Oregon,
+data scientist,"Chevy Chase, MD",Insurance Operators,Insurance,84500,Chevy Chase,MD
+data scientist,"Scotts Valley, CA",Healthcare Services & Hospitals,Healthcare,84500,Scotts Valley,CA
+data scientist,"Boston, MA",Consulting,Business Services,84500,Boston,MA
+data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,84500,Cambridge,MA
+data scientist,"Naperville, IL",Chemical Manufacturing,Manufacturing,84500,Naperville,IL
+data scientist,"Herndon, VA",Research & Development,Business Services,84500,Herndon,VA
+data scientist,"Hill AFB, UT",Aerospace & Defence,Aerospace & Defence,84500,Hill AFB,UT
+data scientist,"Woodbridge, NJ",Insurance Operators,Insurance,84500,Woodbridge,NJ
+data scientist,"Alexandria, VA",Research & Development,Business Services,84500,Alexandria,VA
+data scientist,"Spartanburg, SC",Lending,Finance,84500,Spartanburg,SC
+data scientist,"Ipswich, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,84500,Ipswich,MA
 data scientist,"New York, NY",Insurance Operators,Insurance,126500,New York,NY
 data scientist,"Lexington, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,126500,Lexington,MA
 data scientist,"Lexington, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,126500,Lexington,MA
@@ -760,8 +760,8 @@ data scientist,"Austin, TX",Enterprise Software & Network Solutions,Information 
 data scientist,"Irving, TX",Staffing & Outsourcing,Business Services,121500,Irving,TX
 data scientist,"New York, NY",Enterprise Software & Network Solutions,Information Technology,121500,New York,NY
 data scientist,"Seattle, WA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,121500,Seattle,WA
-junior data scientist,"South San Francisco, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,16900,South San Francisco,CA
-junior data scientist,"New Bedford, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,16900,New Bedford,MA
+junior data scientist,"South San Francisco, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,84500,South San Francisco,CA
+junior data scientist,"New Bedford, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,84500,New Bedford,MA
 junior data scientist,"Smithfield, RI",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,126500,Smithfield,RI
 junior data scientist,"Boston, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,41600,Boston,MA
 junior data scientist,"Worcester, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,99500,Worcester,MA
@@ -780,13 +780,13 @@ junior data scientist,"Richmond, VA",Biotech & Pharmaceuticals,Biotech & Pharmac
 junior data scientist,"South San Francisco, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,91500,South San Francisco,CA
 junior data scientist,"Harrisburg, PA",Advertising & Marketing,Business Services,109000,Harrisburg,PA
 junior data scientist,"New York, NY",Investment Banking & Asset Management,Finance,109000,New York,NY
-senior data scientist,"Atlanta, GA",Internet,Information Technology,16900,Atlanta,GA
-senior data scientist,"Dallas, TX",Security Services,Business Services,16900,Dallas,TX
-senior data scientist,"Lehi, UT",Lending,Finance,16900,Lehi,UT
-senior data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,16900,Cambridge,MA
-senior data scientist,"Denver, CO",Advertising & Marketing,Business Services,16900,Denver,CO
-senior data scientist,"Alexandria, VA",Research & Development,Business Services,16900,Alexandria,VA
-senior data scientist,"Salt Lake City, UT",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,16900,Salt Lake City,UT
+senior data scientist,"Atlanta, GA",Internet,Information Technology,84500,Atlanta,GA
+senior data scientist,"Dallas, TX",Security Services,Business Services,84500,Dallas,TX
+senior data scientist,"Lehi, UT",Lending,Finance,84500,Lehi,UT
+senior data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,84500,Cambridge,MA
+senior data scientist,"Denver, CO",Advertising & Marketing,Business Services,84500,Denver,CO
+senior data scientist,"Alexandria, VA",Research & Development,Business Services,84500,Alexandria,VA
+senior data scientist,"Salt Lake City, UT",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,84500,Salt Lake City,UT
 senior data scientist,"Bedford, MA",-1,-1,126500,Bedford,MA
 senior data scientist,"Seattle, WA",Computer Hardware & Software,Information Technology,126500,Seattle,WA
 senior data scientist,"Herndon, VA",Aerospace & Defence,Aerospace & Defence,126500,Herndon,VA
