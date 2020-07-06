@@ -1,25 +1,25 @@
 ,Job Title,Location,Industry,Sector,salary_average,City,State,Lat,Lng
-0,data scientist,"New York, NY",Advertising & Marketing,Business Services,16900,New York,NY,40.7127753,-74.0059728
-1,data scientist,"Chantilly, VA",Research & Development,Business Services,16900,Chantilly,VA,38.8942786,-77.43109919999999
-2,data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,16900,Cambridge,MA,42.3736158,-71.10973349999999
-3,data scientist,"Overland Park, KS",Healthcare Services & Hospitals,Healthcare,16900,Overland Park,KS,38.9822282,-94.6707917
-4,data scientist,"San Francisco, CA",Government Agencies,Government,16900,San Francisco,CA,37.7749295,-122.4194155
-5,data scientist,"Chantilly, VA",Enterprise Software & Network Solutions,Information Technology,16900,Chantilly,VA,38.8942786,-77.43109919999999
-6,data scientist,"Miami, FL",Enterprise Software & Network Solutions,Information Technology,16900,Miami,FL,25.7616798,-80.1917902
-7,data scientist,"San Francisco, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,16900,San Francisco,CA,37.7749295,-122.4194155
-8,data scientist,New Jersey,Enterprise Software & Network Solutions,Information Technology,16900,New Jersey,,40.0583238,-74.4056612
-9,data scientist,Oregon,Food & Drink Manufacturing,Manufacturing,16900,Oregon,,43.8041334,-120.5542012
-10,data scientist,"Chevy Chase, MD",Insurance Operators,Insurance,16900,Chevy Chase,MD,38.9692771,-77.07886669999999
-11,data scientist,"Scotts Valley, CA",Healthcare Services & Hospitals,Healthcare,16900,Scotts Valley,CA,37.0510595,-122.0146841
-12,data scientist,"Boston, MA",Consulting,Business Services,16900,Boston,MA,42.3600825,-71.0588801
-13,data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,16900,Cambridge,MA,42.3736158,-71.10973349999999
-14,data scientist,"Naperville, IL",Chemical Manufacturing,Manufacturing,16900,Naperville,IL,41.7508391,-88.1535352
-15,data scientist,"Herndon, VA",Research & Development,Business Services,16900,Herndon,VA,38.9695545,-77.3860976
-16,data scientist,"Hill AFB, UT",Aerospace & Defence,Aerospace & Defence,16900,Hill AFB,UT,41.1321102,-111.9939817
-17,data scientist,"Woodbridge, NJ",Insurance Operators,Insurance,16900,Woodbridge,NJ,40.5575986,-74.2846022
-18,data scientist,"Alexandria, VA",Research & Development,Business Services,16900,Alexandria,VA,38.8048355,-77.0469214
-19,data scientist,"Spartanburg, SC",Lending,Finance,16900,Spartanburg,SC,34.9495672,-81.9320482
-20,data scientist,"Ipswich, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,16900,Ipswich,MA,42.6791832,-70.8411558
+0,data scientist,"New York, NY",Advertising & Marketing,Business Services,84500,New York,NY,40.7127753,-74.0059728
+1,data scientist,"Chantilly, VA",Research & Development,Business Services,84500,Chantilly,VA,38.8942786,-77.43109919999999
+2,data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,84500,Cambridge,MA,42.3736158,-71.10973349999999
+3,data scientist,"Overland Park, KS",Healthcare Services & Hospitals,Healthcare,84500,Overland Park,KS,38.9822282,-94.6707917
+4,data scientist,"San Francisco, CA",Government Agencies,Government,84500,San Francisco,CA,37.7749295,-122.4194155
+5,data scientist,"Chantilly, VA",Enterprise Software & Network Solutions,Information Technology,84500,Chantilly,VA,38.8942786,-77.43109919999999
+6,data scientist,"Miami, FL",Enterprise Software & Network Solutions,Information Technology,84500,Miami,FL,25.7616798,-80.1917902
+7,data scientist,"San Francisco, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,84500,San Francisco,CA,37.7749295,-122.4194155
+8,data scientist,New Jersey,Enterprise Software & Network Solutions,Information Technology,84500,New Jersey,,40.0583238,-74.4056612
+9,data scientist,Oregon,Food & Drink Manufacturing,Manufacturing,84500,Oregon,,43.8041334,-120.5542012
+10,data scientist,"Chevy Chase, MD",Insurance Operators,Insurance,84500,Chevy Chase,MD,38.9692771,-77.07886669999999
+11,data scientist,"Scotts Valley, CA",Healthcare Services & Hospitals,Healthcare,84500,Scotts Valley,CA,37.0510595,-122.0146841
+12,data scientist,"Boston, MA",Consulting,Business Services,84500,Boston,MA,42.3600825,-71.0588801
+13,data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,84500,Cambridge,MA,42.3736158,-71.10973349999999
+14,data scientist,"Naperville, IL",Chemical Manufacturing,Manufacturing,84500,Naperville,IL,41.7508391,-88.1535352
+15,data scientist,"Herndon, VA",Research & Development,Business Services,84500,Herndon,VA,38.9695545,-77.3860976
+16,data scientist,"Hill AFB, UT",Aerospace & Defence,Aerospace & Defence,84500,Hill AFB,UT,41.1321102,-111.9939817
+17,data scientist,"Woodbridge, NJ",Insurance Operators,Insurance,84500,Woodbridge,NJ,40.5575986,-74.2846022
+18,data scientist,"Alexandria, VA",Research & Development,Business Services,84500,Alexandria,VA,38.8048355,-77.0469214
+19,data scientist,"Spartanburg, SC",Lending,Finance,84500,Spartanburg,SC,34.9495672,-81.9320482
+20,data scientist,"Ipswich, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,84500,Ipswich,MA,42.6791832,-70.8411558
 21,data scientist,"New York, NY",Insurance Operators,Insurance,126500,New York,NY,40.7127753,-74.0059728
 22,data scientist,"Lexington, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,126500,Lexington,MA,42.4473497,-71.2271531
 23,data scientist,"Lexington, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,126500,Lexington,MA,42.4473497,-71.2271531
@@ -760,8 +760,8 @@
 758,data scientist,"Irving, TX",Staffing & Outsourcing,Business Services,121500,Irving,TX,32.8140177,-96.9488945
 759,data scientist,"New York, NY",Enterprise Software & Network Solutions,Information Technology,121500,New York,NY,40.7127753,-74.0059728
 760,data scientist,"Seattle, WA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,121500,Seattle,WA,47.6062095,-122.3320708
-761,junior data scientist,"South San Francisco, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,16900,South San Francisco,CA,37.654656,-122.4077498
-762,junior data scientist,"New Bedford, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,16900,New Bedford,MA,41.6362152,-70.93420499999999
+761,junior data scientist,"South San Francisco, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,84500,South San Francisco,CA,37.654656,-122.4077498
+762,junior data scientist,"New Bedford, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,84500,New Bedford,MA,41.6362152,-70.93420499999999
 763,junior data scientist,"Smithfield, RI",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,126500,Smithfield,RI,41.9220496,-71.54951009999999
 764,junior data scientist,"Boston, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,41600,Boston,MA,42.3600825,-71.0588801
 765,junior data scientist,"Worcester, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,99500,Worcester,MA,42.2625932,-71.8022934
@@ -780,13 +780,13 @@
 778,junior data scientist,"South San Francisco, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,91500,South San Francisco,CA,37.654656,-122.4077498
 779,junior data scientist,"Harrisburg, PA",Advertising & Marketing,Business Services,109000,Harrisburg,PA,40.2731911,-76.8867008
 780,junior data scientist,"New York, NY",Investment Banking & Asset Management,Finance,109000,New York,NY,40.7127753,-74.0059728
-781,senior data scientist,"Atlanta, GA",Internet,Information Technology,16900,Atlanta,GA,33.7489954,-84.3879824
-782,senior data scientist,"Dallas, TX",Security Services,Business Services,16900,Dallas,TX,32.7766642,-96.79698789999999
-783,senior data scientist,"Lehi, UT",Lending,Finance,16900,Lehi,UT,40.3916172,-111.8507662
-784,senior data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,16900,Cambridge,MA,42.3736158,-71.10973349999999
-785,senior data scientist,"Denver, CO",Advertising & Marketing,Business Services,16900,Denver,CO,39.7392358,-104.990251
-786,senior data scientist,"Alexandria, VA",Research & Development,Business Services,16900,Alexandria,VA,38.8048355,-77.0469214
-787,senior data scientist,"Salt Lake City, UT",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,16900,Salt Lake City,UT,40.7607793,-111.8910474
+781,senior data scientist,"Atlanta, GA",Internet,Information Technology,84500,Atlanta,GA,33.7489954,-84.3879824
+782,senior data scientist,"Dallas, TX",Security Services,Business Services,84500,Dallas,TX,32.7766642,-96.79698789999999
+783,senior data scientist,"Lehi, UT",Lending,Finance,84500,Lehi,UT,40.3916172,-111.8507662
+784,senior data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,84500,Cambridge,MA,42.3736158,-71.10973349999999
+785,senior data scientist,"Denver, CO",Advertising & Marketing,Business Services,84500,Denver,CO,39.7392358,-104.990251
+786,senior data scientist,"Alexandria, VA",Research & Development,Business Services,84500,Alexandria,VA,38.8048355,-77.0469214
+787,senior data scientist,"Salt Lake City, UT",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,84500,Salt Lake City,UT,40.7607793,-111.8910474
 788,senior data scientist,"Bedford, MA",-1,-1,126500,Bedford,MA,42.4906231,-71.2760089
 789,senior data scientist,"Seattle, WA",Computer Hardware & Software,Information Technology,126500,Seattle,WA,47.6062095,-122.3320708
 790,senior data scientist,"Herndon, VA",Aerospace & Defence,Aerospace & Defence,126500,Herndon,VA,38.9695545,-77.3860976
