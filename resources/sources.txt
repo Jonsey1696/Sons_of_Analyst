@@ -1,0 +1,11 @@
+DATA SOURCES
+
+1000 job postings with extractable salaries url: https://www.kaggle.com/rkb0023/glassdoor-data-science-jobs
+
+10000 Data Scientist Job Postings from the USA url: https://www.kaggle.com/jobspikr/data-scientist-job-postings-from-the-usa
+
+APIs
+
+google places api url: https://developers.google.com/places/web-service/search
+
+geocode api url: https://developers.google.com/maps/documentation/geocoding/start
