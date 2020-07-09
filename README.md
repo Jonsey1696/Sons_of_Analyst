@@ -16,8 +16,13 @@ Project 1
 
 ![alt text](https://github.com/Jonsey1696/Sons_of_Analyst/blob/master/images/top_15%20skills.png?raw=true)
 
+
 ### 3) What is the expected salary?
   One confusing thought during this process is to have a better understanding of the potential salary for these positions. One of the interesting finds we made was how many different sectors of industry Data Science had permeated. from there we decided to withdraw the highest paying sectors for comparison. IT, Business Services, Biotech & Pharmacueticals, Finance, Healthcare, and finally Insurance ranked the highest in our set of postings. We were surprised that Logistics was not higher up on the list.
   
-  
+
+
+
+
+
  If we were given more time and resources for this project we would like to be able to gather a wider range of data points.  Due to the cost of using the major job boards APIs we were unable to select a longer range of postings to be able to diaplay growth in the industry, rising and falling relevant skills, and increase in salary as adoption of this technology becomes more prevalent.
