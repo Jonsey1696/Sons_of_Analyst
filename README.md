@@ -21,7 +21,7 @@ Project 1
   One confusing thought during this process is to have a better understanding of the potential salary for these positions. One of the interesting finds we made was how many different sectors of industry Data Science had permeated. from there we decided to withdraw the highest paying sectors for comparison. IT, Business Services, Biotech & Pharmacueticals, Finance, Healthcare, and finally Insurance ranked the highest in our set of postings. We were surprised that Logistics was not higher up on the list.
   
 
-
+![alt text](https://github.com/Jonsey1696/Sons_of_Analyst/blob/master/glassdoor%20salaries/Plots/Number%20of%20jobs%20in%20top%206%20sectors.png?raw=true)
 
 
 
