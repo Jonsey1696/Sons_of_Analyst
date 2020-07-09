@@ -1,888 +1,888 @@
-Job Title,Location,Industry,Sector,salary_average,City,State
-data scientist,"New York, NY",Advertising & Marketing,Business Services,84500,New York,NY
-data scientist,"Chantilly, VA",Research & Development,Business Services,84500,Chantilly,VA
-data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,84500,Cambridge,MA
-data scientist,"Overland Park, KS",Healthcare Services & Hospitals,Healthcare,84500,Overland Park,KS
-data scientist,"San Francisco, CA",Government Agencies,Government,84500,San Francisco,CA
-data scientist,"Chantilly, VA",Enterprise Software & Network Solutions,Information Technology,84500,Chantilly,VA
-data scientist,"Miami, FL",Enterprise Software & Network Solutions,Information Technology,84500,Miami,FL
-data scientist,"San Francisco, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,84500,San Francisco,CA
-data scientist,New Jersey,Enterprise Software & Network Solutions,Information Technology,84500,New Jersey,
-data scientist,Oregon,Food & Drink Manufacturing,Manufacturing,84500,Oregon,
-data scientist,"Chevy Chase, MD",Insurance Operators,Insurance,84500,Chevy Chase,MD
-data scientist,"Scotts Valley, CA",Healthcare Services & Hospitals,Healthcare,84500,Scotts Valley,CA
-data scientist,"Boston, MA",Consulting,Business Services,84500,Boston,MA
-data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,84500,Cambridge,MA
-data scientist,"Naperville, IL",Chemical Manufacturing,Manufacturing,84500,Naperville,IL
-data scientist,"Herndon, VA",Research & Development,Business Services,84500,Herndon,VA
-data scientist,"Hill AFB, UT",Aerospace & Defence,Aerospace & Defence,84500,Hill AFB,UT
-data scientist,"Woodbridge, NJ",Insurance Operators,Insurance,84500,Woodbridge,NJ
-data scientist,"Alexandria, VA",Research & Development,Business Services,84500,Alexandria,VA
-data scientist,"Spartanburg, SC",Lending,Finance,84500,Spartanburg,SC
-data scientist,"Ipswich, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,84500,Ipswich,MA
-data scientist,"New York, NY",Insurance Operators,Insurance,126500,New York,NY
-data scientist,"Lexington, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,126500,Lexington,MA
-data scientist,"Lexington, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,126500,Lexington,MA
-data scientist,"Akron, OH",Healthcare Services & Hospitals,Healthcare,126500,Akron,OH
-data scientist,"Madison, WI",Investment Banking & Asset Management,Finance,126500,Madison,WI
-data scientist,"Bedford, MA",-1,-1,126500,Bedford,MA
-data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,126500,Cambridge,MA
-data scientist,"Hoboken, NJ",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,126500,Hoboken,NJ
-data scientist,"Milwaukee, WI",Food & Drink Manufacturing,Manufacturing,126500,Milwaukee,WI
-data scientist,"Chantilly, VA",Enterprise Software & Network Solutions,Information Technology,126500,Chantilly,VA
-data scientist,"Pittsburgh, PA",-1,-1,126500,Pittsburgh,PA
-data scientist,"Reston, VA",Enterprise Software & Network Solutions,Information Technology,126500,Reston,VA
-data scientist,"Waltham, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,126500,Waltham,MA
-data scientist,"San Francisco, CA",Enterprise Software & Network Solutions,Information Technology,126500,San Francisco,CA
-data scientist,"Gardnerville, NV",Healthcare Services & Hospitals,Healthcare,126500,Gardnerville,NV
-data scientist,"Washington, DC",IT Services,Information Technology,126500,Washington,DC
-data scientist,"Pittsburgh, PA",Banks & Building Societies,Finance,126500,Pittsburgh,PA
-data scientist,"Bridgeport, WV",Consulting,Business Services,126500,Bridgeport,WV
-data scientist,"Newton, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,126500,Newton,MA
-data scientist,"White Sands Missile Range, NM",Aerospace & Defence,Aerospace & Defence,126500,White Sands Missile Range,NM
-data scientist,"Santa Clara, CA",Computer Hardware & Software,Information Technology,126500,Santa Clara,CA
-data scientist,"San Jose, CA",Computer Hardware & Software,Information Technology,126500,San Jose,CA
-data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,126500,Cambridge,MA
-data scientist,"Pittsburgh, PA",Colleges & Universities,Education,126500,Pittsburgh,PA
-data scientist,"New York, NY",Advertising & Marketing,Business Services,126500,New York,NY
-data scientist,"Los Angeles, CA",Enterprise Software & Network Solutions,Information Technology,126500,Los Angeles,CA
-data scientist,"Herndon, VA",IT Services,Information Technology,41600,Herndon,VA
-data scientist,"Arlington, VA",Aerospace & Defence,Aerospace & Defence,41600,Arlington,VA
-data scientist,"Washington, DC",Consulting,Business Services,41600,Washington,DC
-data scientist,"Chicago, IL",Advertising & Marketing,Business Services,41600,Chicago,IL
-data scientist,"Charlotte, NC",Computer Hardware & Software,Information Technology,41600,Charlotte,NC
-data scientist,"Beavercreek, OH",Government Agencies,Government,41600,Beavercreek,OH
-data scientist,"Redmond, WA",Consulting,Business Services,41600,Redmond,WA
-data scientist,"Boston, MA",Insurance Operators,Insurance,41600,Boston,MA
-data scientist,"Laurel, MD",Aerospace & Defence,Aerospace & Defence,41600,Laurel,MD
-data scientist,"Chicago, IL",Healthcare Services & Hospitals,Healthcare,41600,Chicago,IL
-data scientist,"Plano, TX",Enterprise Software & Network Solutions,Information Technology,41600,Plano,TX
-data scientist,"Herndon, VA",Enterprise Software & Network Solutions,Information Technology,41600,Herndon,VA
-data scientist,"Memphis, TN",Chemical Manufacturing,Manufacturing,41600,Memphis,TN
-data scientist,"Norwood, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,41600,Norwood,MA
-data scientist,"Bangor, ME",Commercial Equipment Repair & Maintenance,"Building, Repair & Maintenance",41600,Bangor,ME
-data scientist,"Creve Coeur, MO",Staffing & Outsourcing,Business Services,41600,Creve Coeur,MO
-data scientist,"Enfield, CT",Insurance Operators,Insurance,41600,Enfield,CT
-data scientist,"San Diego, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,41600,San Diego,CA
-data scientist,"Lexington, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,41600,Lexington,MA
-data scientist,"Bridgewater, NJ",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,41600,Bridgewater,NJ
-data scientist,"Mountain View, CA",Enterprise Software & Network Solutions,Information Technology,41600,Mountain View,CA
-data scientist,"Novato, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,41600,Novato,CA
-data scientist,"Saint Louis, MO",IT Services,Information Technology,99500,Saint Louis,MO
-data scientist,"Irvine, CA",IT Services,Information Technology,99500,Irvine,CA
-data scientist,"San Diego, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,99500,San Diego,CA
-data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,99500,Cambridge,MA
-data scientist,"Chicago, IL",Enterprise Software & Network Solutions,Information Technology,99500,Chicago,IL
-data scientist,"Morrisville, NC",Computer Hardware & Software,Information Technology,99500,Morrisville,NC
-data scientist,"New York, NY",Internet,Information Technology,99500,New York,NY
-data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,99500,Cambridge,MA
-data scientist,"Annapolis Junction, MD",IT Services,Information Technology,99500,Annapolis Junction,MD
-data scientist,"Coral Gables, FL",Investment Banking & Asset Management,Finance,99500,Coral Gables,FL
-data scientist,"Novato, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,99500,Novato,CA
-data scientist,Remote,Enterprise Software & Network Solutions,Information Technology,99500,Remote,
-data scientist,"Dearborn, MI",Advertising & Marketing,Business Services,99500,Dearborn,MI
-data scientist,"Milwaukee, WI",Food & Drink Manufacturing,Manufacturing,99500,Milwaukee,WI
-data scientist,"San Francisco, CA",Internet,Information Technology,99500,San Francisco,CA
-data scientist,"Merrifield, VA",Banks & Building Societies,Finance,99500,Merrifield,VA
-data scientist,"Richmond, VA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,99500,Richmond,VA
-data scientist,"Hauppauge, NY",-1,-1,99500,Hauppauge,NY
-data scientist,"New York, NY",Internet,Information Technology,99500,New York,NY
-data scientist,"Madison, WI",Insurance Operators,Insurance,99500,Madison,WI
-data scientist,"Aurora, IL",Healthcare Services & Hospitals,Healthcare,99500,Aurora,IL
-data scientist,"Westlake, TX",Investment Banking & Asset Management,Finance,99500,Westlake,TX
-data scientist,"San Francisco, CA",Enterprise Software & Network Solutions,Information Technology,124500,San Francisco,CA
-data scientist,"Dallas, TX",-1,-1,124500,Dallas,TX
-data scientist,"San Antonio, TX",Staffing & Outsourcing,Business Services,124500,San Antonio,TX
-data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,124500,Cambridge,MA
-data scientist,"Mountain View, CA",Enterprise Software & Network Solutions,Information Technology,124500,Mountain View,CA
-data scientist,"Atlanta, GA",Computer Hardware & Software,Information Technology,124500,Atlanta,GA
-data scientist,"Memphis, TN",Healthcare Services & Hospitals,Healthcare,124500,Memphis,TN
-data scientist,"New York, NY",Consulting,Business Services,124500,New York,NY
-data scientist,"New York, NY",Research & Development,Business Services,124500,New York,NY
-data scientist,"Akron, OH",Consumer Products Manufacturing,Manufacturing,124500,Akron,OH
-data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,124500,Cambridge,MA
-data scientist,"Blue Ash, OH",Grocery Shops & Supermarkets,Retail,124500,Blue Ash,OH
-data scientist,"United States , Raleigh",IT Services,Information Technology,124500,United States ,Raleigh
-data scientist,"Appleton, WI",Insurance Operators,Insurance,124500,Appleton,WI
-data scientist,"Vicksburg, MS",IT Services,Information Technology,124500,Vicksburg,MS
-data scientist,"Cambridge, MA",Enterprise Software & Network Solutions,Information Technology,124500,Cambridge,MA
-data scientist,"Novi, MI",Computer Hardware & Software,Information Technology,124500,Novi,MI
-data scientist,"San Antonio, TX",Insurance Operators,Insurance,124500,San Antonio,TX
-data scientist,"Philadelphia, PA",Insurance Operators,Insurance,124500,Philadelphia,PA
-data scientist,"Pittsburgh, PA",Architectural & Engineering Services,Business Services,124500,Pittsburgh,PA
-data scientist,"Saint Louis, MO",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,124500,Saint Louis,MO
-data scientist,"Austin, TX",Video Games,Media,124500,Austin,TX
-data scientist,"Vicksburg, MS",IT Services,Information Technology,57000,Vicksburg,MS
-data scientist,"New Orleans, LA",Enterprise Software & Network Solutions,Information Technology,57000,New Orleans,LA
-data scientist,"San Rafael, CA","Department, Clothing, & Shoe Shops",Retail,57000,San Rafael,CA
-data scientist,"New York, NY",Insurance Operators,Insurance,57000,New York,NY
-data scientist,"Stamford, CT","Cable, Internet & Telephone Providers",Telecommunications,57000,Stamford,CT
-data scientist,"New York, NY",Insurance Operators,Insurance,57000,New York,NY
-data scientist,United States,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,57000,United States,
-data scientist,"Alexandria, VA",Internet,Information Technology,57000,Alexandria,VA
-data scientist,"Boston, MA",IT Services,Information Technology,57000,Boston,MA
-data scientist,"Seattle, WA",Energy,"Oil, Gas, Energy & Utilities",57000,Seattle,WA
-data scientist,"San Francisco, CA",Investment Banking & Asset Management,Finance,57000,San Francisco,CA
-data scientist,"Wright Patterson AFB, OH",Government Agencies,Government,57000,Wright Patterson AFB,OH
-data scientist,United States,Beauty & Personal Accessories Shops,Retail,57000,United States,
-data scientist,"Simi Valley, CA",Aerospace & Defence,Aerospace & Defence,57000,Simi Valley,CA
-data scientist,"San Francisco, CA",Computer Hardware & Software,Information Technology,57000,San Francisco,CA
-data scientist,"New York, NY",Investment Banking & Asset Management,Finance,57000,New York,NY
-data scientist,"Bethesda, MD",Preschool & Child Care,Education,57000,Bethesda,MD
-data scientist,"Hoopeston, IL",Food & Drink Manufacturing,Manufacturing,57000,Hoopeston,IL
-data scientist,"Memphis, TN",Healthcare Services & Hospitals,Healthcare,57000,Memphis,TN
-data scientist,"New York, NY",-1,-1,57000,New York,NY
-data scientist,"Madison, WI",Healthcare Services & Hospitals,Healthcare,57000,Madison,WI
-data scientist,"San Mateo, CA",Internet,Information Technology,184000,San Mateo,CA
-data scientist,"South San Francisco, CA",Enterprise Software & Network Solutions,Information Technology,184000,South San Francisco,CA
-data scientist,"Seattle, WA",Insurance Operators,Insurance,184000,Seattle,WA
-data scientist,"Rancho Cucamonga, CA",Healthcare Services & Hospitals,Healthcare,184000,Rancho Cucamonga,CA
-data scientist,"Jamaica, NY",Consulting,Business Services,184000,Jamaica,NY
-data scientist,"San Mateo, CA",Investment Banking & Asset Management,Finance,184000,San Mateo,CA
-data scientist,"Fort Belvoir, VA",Consulting,Business Services,184000,Fort Belvoir,VA
-data scientist,"Chicago, IL",Insurance Operators,Insurance,184000,Chicago,IL
-data scientist,"Herndon, VA",Aerospace & Defence,Aerospace & Defence,184000,Herndon,VA
-data scientist,"Washington, DC",Internet,Information Technology,184000,Washington,DC
-data scientist,"San Antonio, TX",Insurance Operators,Insurance,184000,San Antonio,TX
-data scientist,"Atlanta, GA",IT Services,Information Technology,184000,Atlanta,GA
-data scientist,"Vail, CO",Healthcare Services & Hospitals,Healthcare,184000,Vail,CO
-data scientist,"Austin, TX",Computer Hardware & Software,Information Technology,184000,Austin,TX
-data scientist,"Los Angeles, CA",Advertising & Marketing,Business Services,184000,Los Angeles,CA
-data scientist,"Saint Louis, MO",Staffing & Outsourcing,Business Services,184000,Saint Louis,MO
-data scientist,Remote,Internet,Information Technology,184000,Remote,
-data scientist,"Memphis, TN",Healthcare Services & Hospitals,Healthcare,184000,Memphis,TN
-data scientist,"Kansas City, MO",Insurance Operators,Insurance,184000,Kansas City,MO
-data scientist,"Pittsburgh, PA",Colleges & Universities,Education,184000,Pittsburgh,PA
-data scientist,"Albany, NY",Consulting,Business Services,184000,Albany,NY
-data scientist,"Philadelphia, PA",Healthcare Services & Hospitals,Healthcare,111000,Philadelphia,PA
-data scientist,"Chicago, IL",Investment Banking & Asset Management,Finance,111000,Chicago,IL
-data scientist,"Windsor, CT",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,111000,Windsor,CT
-data scientist,"San Diego, CA",Consulting,Business Services,111000,San Diego,CA
-data scientist,"Houston, TX",IT Services,Information Technology,111000,Houston,TX
-data scientist,"McLean, VA",Aerospace & Defence,Aerospace & Defence,111000,McLean,VA
-data scientist,"Omaha, NE",Transportation Management,Transportation & Logistics,111000,Omaha,NE
-data scientist,"Madison, WI",Healthcare Services & Hospitals,Healthcare,111000,Madison,WI
-data scientist,"Madison, WI",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,111000,Madison,WI
-data scientist,"Indianapolis, IN",Architectural & Engineering Services,Business Services,111000,Indianapolis,IN
-data scientist,"Memphis, TN",Healthcare Services & Hospitals,Healthcare,111000,Memphis,TN
-data scientist,"Tulsa, OK",Oil & Gas Exploration & Production,"Oil, Gas, Energy & Utilities",111000,Tulsa,OK
-data scientist,"Aliso Viejo, CA",Video Games,Media,111000,Aliso Viejo,CA
-data scientist,"Des Moines, IA",Insurance Operators,Insurance,111000,Des Moines,IA
-data scientist,"Bloomington, MN",IT Services,Information Technology,111000,Bloomington,MN
-data scientist,"Alexandria, VA",IT Services,Information Technology,111000,Alexandria,VA
-data scientist,"San Francisco, CA",Consumer Product Hire,Consumer Services,111000,San Francisco,CA
-data scientist,"New Haven, CT",Architectural & Engineering Services,Business Services,111000,New Haven,CT
-data scientist,"San Bruno, CA",Staffing & Outsourcing,Business Services,111000,San Bruno,CA
-data scientist,"Reston, VA",IT Services,Information Technology,111000,Reston,VA
-data scientist,"San Francisco, CA",Express Delivery Services,Transportation & Logistics,111000,San Francisco,CA
-data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,111000,Cambridge,MA
-data scientist,"Baltimore, MD",Enterprise Software & Network Solutions,Information Technology,111000,Baltimore,MD
-data scientist,"Boston, MA",Insurance Operators,Insurance,111000,Boston,MA
-data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,75500,Cambridge,MA
-data scientist,"Waltham, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,75500,Waltham,MA
-data scientist,"Blue Bell, PA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,75500,Blue Bell,PA
-data scientist,"Chicago, IL",Enterprise Software & Network Solutions,Information Technology,75500,Chicago,IL
-data scientist,"Reston, VA",IT Services,Information Technology,75500,Reston,VA
-data scientist,"Orchard Park, NY",Social Services,Non-Profits,75500,Orchard Park,NY
-data scientist,"Beavercreek, OH",Government Agencies,Government,75500,Beavercreek,OH
-data scientist,"Thousand Oaks, CA",Consulting,Business Services,75500,Thousand Oaks,CA
-data scientist,"Saint Louis, MO",Computer Hardware & Software,Information Technology,75500,Saint Louis,MO
-data scientist,"San Francisco, CA",Internet,Information Technology,75500,San Francisco,CA
-data scientist,"Thousand Oaks, CA",Staffing & Outsourcing,Business Services,75500,Thousand Oaks,CA
-data scientist,"Springfield, VA",IT Services,Information Technology,75500,Springfield,VA
-data scientist,"Newton, MA",Electrical & Electronic Manufacturing,Manufacturing,75500,Newton,MA
-data scientist,"Washington, DC",IT Services,Information Technology,75500,Washington,DC
-data scientist,"New York, NY",Healthcare Services & Hospitals,Healthcare,75500,New York,NY
-data scientist,"Fremont, CA",IT Services,Information Technology,75500,Fremont,CA
-data scientist,"Columbia, MO",Insurance Operators,Insurance,75500,Columbia,MO
-data scientist,"Cambridge, MA",Computer Hardware & Software,Information Technology,75500,Cambridge,MA
-data scientist,"Bellevue, WA",Computer Hardware & Software,Information Technology,75500,Bellevue,WA
-data scientist,"Memphis, TN",Healthcare Services & Hospitals,Healthcare,75500,Memphis,TN
-data scientist,"Santa Barbara, CA",Internet,Information Technology,75500,Santa Barbara,CA
-data scientist,"Tulsa, OK",Oil & Gas Services,"Oil, Gas, Energy & Utilities",75500,Tulsa,OK
-data scientist,"Campbell, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,75500,Campbell,CA
-data scientist,"Burlingame, CA",Video Games,Media,130000,Burlingame,CA
-data scientist,"San Bruno, CA",-1,-1,130000,San Bruno,CA
-data scientist,"Winston-Salem, NC",Consumer Products Manufacturing,Manufacturing,130000,Winston-Salem,NC
-data scientist,"South San Francisco, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,130000,South San Francisco,CA
-data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,130000,Cambridge,MA
-data scientist,"New York, NY",Enterprise Software & Network Solutions,Information Technology,130000,New York,NY
-data scientist,"Woodland Hills, CA",Computer Hardware & Software,Information Technology,130000,Woodland Hills,CA
-data scientist,"Denver, CO",Insurance Operators,Insurance,130000,Denver,CO
-data scientist,"Hoboken, NJ",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,130000,Hoboken,NJ
-data scientist,"Richmond, VA",Banks & Building Societies,Finance,130000,Richmond,VA
-data scientist,"Minneapolis, MN",Consulting,Business Services,130000,Minneapolis,MN
-data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,130000,Cambridge,MA
-data scientist,"Boston, MA",Consulting,Business Services,130000,Boston,MA
-data scientist,"Greenfield, IN",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,130000,Greenfield,IN
-data scientist,"Quincy, MA",Insurance Operators,Insurance,130000,Quincy,MA
-data scientist,"Aurora, CO",Insurance Operators,Insurance,130000,Aurora,CO
-data scientist,"Foster City, CA",IT Services,Information Technology,130000,Foster City,CA
-data scientist,"Rancho Cucamonga, CA",Healthcare Services & Hospitals,Healthcare,130000,Rancho Cucamonga,CA
-data scientist,"San Bruno, CA",Staffing & Outsourcing,Business Services,130000,San Bruno,CA
-data scientist,"Foster City, CA",Computer Hardware & Software,Information Technology,130000,Foster City,CA
-data scientist,"Northbrook, IL",Chemical Manufacturing,Manufacturing,130000,Northbrook,IL
-data scientist,"Rancho Cucamonga, CA",Healthcare Services & Hospitals,Healthcare,130000,Rancho Cucamonga,CA
-data scientist,"Patuxent, Anne Arundel, MD",IT Services,Information Technology,130000,Patuxent,Anne Arundel
-data scientist,"Huntsville, AL",Investment Banking & Asset Management,Finance,130000,Huntsville,AL
-data scientist,"San Francisco, CA",Computer Hardware & Software,Information Technology,130000,San Francisco,CA
-data scientist,"Tacoma, WA",Wholesale,Business Services,56500,Tacoma,WA
-data scientist,"Seattle, WA",Architectural & Engineering Services,Business Services,56500,Seattle,WA
-data scientist,"Norwood, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,56500,Norwood,MA
-data scientist,"Chicago, IL",Healthcare Services & Hospitals,Healthcare,56500,Chicago,IL
-data scientist,"Fort Belvoir, VA",Aerospace & Defence,Aerospace & Defence,56500,Fort Belvoir,VA
-data scientist,"Redmond, WA",Consulting,Business Services,56500,Redmond,WA
-data scientist,"Rancho Cucamonga, CA",Healthcare Services & Hospitals,Healthcare,56500,Rancho Cucamonga,CA
-data scientist,"Washington, DC",Insurance Operators,Insurance,56500,Washington,DC
-data scientist,"San Bruno, CA",IT Services,Information Technology,56500,San Bruno,CA
-data scientist,"San Bruno, CA",Utilities,"Oil, Gas, Energy & Utilities",56500,San Bruno,CA
-data scientist,"Irvine, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,56500,Irvine,CA
-data scientist,"Huntsville, AL",IT Services,Information Technology,56500,Huntsville,AL
-data scientist,"Dulles, VA",IT Services,Information Technology,56500,Dulles,VA
-data scientist,"San Francisco, CA",Staffing & Outsourcing,Business Services,56500,San Francisco,CA
-data scientist,"Bartlesville, OK",Energy,"Oil, Gas, Energy & Utilities",56500,Bartlesville,OK
-data scientist,Virginia,IT Services,Information Technology,56500,Virginia,
-data scientist,"Walnut Creek, CA",Financial Transaction Processing,Finance,56500,Walnut Creek,CA
-data scientist,"Fremont, CA",Computer Hardware & Software,Information Technology,56500,Fremont,CA
-data scientist,"Glendale, CA",Primary & Secondary Education,Education,56500,Glendale,CA
-data scientist,"Rockville, MD",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,56500,Rockville,MD
-data scientist,"Arlington, VA",IT Services,Information Technology,56500,Arlington,VA
-data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,56500,Cambridge,MA
-data scientist,"Norwood, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,69500,Norwood,MA
-data scientist,"North Chicago, IL",Staffing & Outsourcing,Business Services,69500,North Chicago,IL
-data scientist,"Santa Clara, CA",Enterprise Software & Network Solutions,Information Technology,69500,Santa Clara,CA
-data scientist,"San Francisco, CA",Computer Hardware & Software,Information Technology,69500,San Francisco,CA
-data scientist,"Vancouver, WA",-1,-1,69500,Vancouver,WA
-data scientist,"Berkeley, CA",-1,-1,69500,Berkeley,CA
-data scientist,"Westminster, CO",Consulting,Business Services,69500,Westminster,CO
-data scientist,"Irvine, CA",Investment Banking & Asset Management,Finance,69500,Irvine,CA
-data scientist,"San Antonio, TX",Staffing & Outsourcing,Business Services,69500,San Antonio,TX
-data scientist,"South San Francisco, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,69500,South San Francisco,CA
-data scientist,"San Francisco, CA",IT Services,Information Technology,69500,San Francisco,CA
-data scientist,"Collegeville, PA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,69500,Collegeville,PA
-data scientist,"Cambridge, MA",Building & Construction,"Building, Repair & Maintenance",69500,Cambridge,MA
-data scientist,New Jersey,IT Services,Information Technology,69500,New Jersey,
-data scientist,"Chicago, IL",Banks & Building Societies,Finance,69500,Chicago,IL
-data scientist,"Arlington, VA",IT Services,Information Technology,69500,Arlington,VA
-data scientist,"Pittsburgh, PA",Mining,Mining & Metals,69500,Pittsburgh,PA
-data scientist,"New York, NY",Computer Hardware & Software,Information Technology,69500,New York,NY
-data scientist,"McLean, VA",Government Agencies,Government,69500,McLean,VA
-data scientist,"Columbia, MO",Lending,Finance,69500,Columbia,MO
-data scientist,"Austin, TX",Advertising & Marketing,Business Services,69500,Austin,TX
-data scientist,"Thousand Oaks, CA",Staffing & Outsourcing,Business Services,69500,Thousand Oaks,CA
-data scientist,"Pomona, CA",Utilities,"Oil, Gas, Energy & Utilities",69500,Pomona,CA
-data scientist,"San Francisco, CA",IT Services,Information Technology,69500,San Francisco,CA
-data scientist,"Concord, CA",Consulting,Business Services,69500,Concord,CA
-data scientist,"San Carlos, CA",-1,-1,127500,San Carlos,CA
-data scientist,"Edison, NJ",Healthcare Services & Hospitals,Healthcare,127500,Edison,NJ
-data scientist,"Monterey, CA",Healthcare Services & Hospitals,Healthcare,127500,Monterey,CA
-data scientist,"Norwood, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,127500,Norwood,MA
-data scientist,"San Francisco, CA",Internet,Information Technology,127500,San Francisco,CA
-data scientist,"New York, NY",-1,-1,127500,New York,NY
-data scientist,"San Francisco, CA",-1,-1,127500,San Francisco,CA
-data scientist,"Birmingham, AL",Aerospace & Defence,Aerospace & Defence,127500,Birmingham,AL
-data scientist,"Bayonne, NJ",Staffing & Outsourcing,Business Services,127500,Bayonne,NJ
-data scientist,"Brooklyn, NY",Staffing & Outsourcing,Business Services,127500,Brooklyn,NY
-data scientist,"San Francisco, CA",Security Services,Business Services,127500,San Francisco,CA
-data scientist,"San Francisco, CA",Venture Capital & Private Equity,Finance,127500,San Francisco,CA
-data scientist,"Folsom, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,127500,Folsom,CA
-data scientist,"Memphis, TN",Staffing & Outsourcing,Business Services,127500,Memphis,TN
-data scientist,"Oakland, CA",IT Services,Information Technology,127500,Oakland,CA
-data scientist,"Monterey, CA",Other Retail Shops,Retail,127500,Monterey,CA
-data scientist,"Whittier, CA",Computer Hardware & Software,Information Technology,127500,Whittier,CA
-data scientist,"New York, NY",Accounting,Accounting & Legal,127500,New York,NY
-data scientist,"McLean, VA",Aerospace & Defence,Aerospace & Defence,127500,McLean,VA
-data scientist,"Tysons, VA",Enterprise Software & Network Solutions,Information Technology,127500,Tysons,VA
-data scientist,"Dallas, TX",IT Services,Information Technology,127500,Dallas,TX
-data scientist,"Boston, MA",IT Services,Information Technology,127500,Boston,MA
-data scientist,"Beavercreek, OH",Government Agencies,Government,127500,Beavercreek,OH
-data scientist,"Somerville, MA",-1,-1,127500,Somerville,MA
-data scientist,"Richmond, VA",Chemical Manufacturing,Manufacturing,94500,Richmond,VA
-data scientist,"Providence, RI",Insurance Operators,Insurance,94500,Providence,RI
-data scientist,"Hartford, CT",IT Services,Information Technology,94500,Hartford,CT
-data scientist,"San Jose, CA",Computer Hardware & Software,Information Technology,94500,San Jose,CA
-data scientist,"Columbia, MD",Consulting,Business Services,94500,Columbia,MD
-data scientist,"South San Francisco, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,94500,South San Francisco,CA
-data scientist,"Raleigh, NC",Industrial Manufacturing,Manufacturing,94500,Raleigh,NC
-data scientist,"Boston, MA",Computer Hardware & Software,Information Technology,94500,Boston,MA
-data scientist,"San Francisco, CA",Healthcare Services & Hospitals,Healthcare,94500,San Francisco,CA
-data scientist,"New York, NY",Enterprise Software & Network Solutions,Information Technology,94500,New York,NY
-data scientist,"Arlington, VA",Consulting,Business Services,94500,Arlington,VA
-data scientist,"Denver, CO",Aerospace & Defence,Aerospace & Defence,94500,Denver,CO
-data scientist,"Sunnyvale, CA",Healthcare Services & Hospitals,Healthcare,94500,Sunnyvale,CA
-data scientist,"Memphis, TN",Healthcare Services & Hospitals,Healthcare,94500,Memphis,TN
-data scientist,"Dallas, TX",IT Services,Information Technology,94500,Dallas,TX
-data scientist,"Red Bank, NJ",Banks & Building Societies,Finance,94500,Red Bank,NJ
-data scientist,"Annapolis Junction, MD",Computer Hardware & Software,Information Technology,94500,Annapolis Junction,MD
-data scientist,"Menlo Park, CA",Consulting,Business Services,94500,Menlo Park,CA
-data scientist,"Norman, OK",IT Services,Information Technology,94500,Norman,OK
-data scientist,"San Francisco, CA",Advertising & Marketing,Business Services,94500,San Francisco,CA
-data scientist,"San Francisco, CA",Financial Analytics & Research,Finance,94500,San Francisco,CA
-data scientist,"Richardson Springs, CA",-1,-1,94500,Richardson Springs,CA
-data scientist,"Merrifield, VA",Banks & Building Societies,Finance,94500,Merrifield,VA
-data scientist,"Washington, DC",Insurance Operators,Insurance,94500,Washington,DC
-data scientist,"Allen, TX",Enterprise Software & Network Solutions,Information Technology,94500,Allen,TX
-data scientist,"Springfield, VA",IT Services,Information Technology,94500,Springfield,VA
-data scientist,"Chantilly, VA",IT Services,Information Technology,96500,Chantilly,VA
-data scientist,"Rockville, MD",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,96500,Rockville,MD
-data scientist,"Florence, KY",Electrical & Electronic Manufacturing,Manufacturing,96500,Florence,KY
-data scientist,"Broomfield, CO","Cable, Internet & Telephone Providers",Telecommunications,96500,Broomfield,CO
-data scientist,"Des Moines, IA",Banks & Building Societies,Finance,96500,Des Moines,IA
-data scientist,"Foster City, CA",Enterprise Software & Network Solutions,Information Technology,96500,Foster City,CA
-data scientist,"Santa Clara, CA",-1,-1,96500,Santa Clara,CA
-data scientist,"Salt Lake City, UT",Enterprise Software & Network Solutions,Information Technology,96500,Salt Lake City,UT
-data scientist,"San Francisco, CA",-1,-1,96500,San Francisco,CA
-data scientist,"Buckhead, GA",-1,-1,96500,Buckhead,GA
-data scientist,"Bellevue, WA",Investment Banking & Asset Management,Finance,96500,Bellevue,WA
-data scientist,"Fort Lauderdale, FL",Enterprise Software & Network Solutions,Information Technology,96500,Fort Lauderdale,FL
-data scientist,"Rockville, MD",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,96500,Rockville,MD
-data scientist,"Lombard, IL",IT Services,Information Technology,96500,Lombard,IL
-data scientist,"Granite City, IL",Rail Freight,Transportation & Logistics,96500,Granite City,IL
-data scientist,"Brentwood, TN",Building & Construction,"Building, Repair & Maintenance",96500,Brentwood,TN
-data scientist,"Dallas, TX",Enterprise Software & Network Solutions,Information Technology,96500,Dallas,TX
-data scientist,"Palo Alto, CA",Enterprise Software & Network Solutions,Information Technology,96500,Palo Alto,CA
-data scientist,"San Francisco, CA",Real Estate,Real Estate,96500,San Francisco,CA
-data scientist,"Bristol, CT",-1,-1,96500,Bristol,CT
-data scientist,"San Jose, CA",-1,-1,96500,San Jose,CA
-data scientist,"San Francisco, CA",Enterprise Software & Network Solutions,Information Technology,96500,San Francisco,CA
-data scientist,"New York, NY",Computer Hardware & Software,Information Technology,96500,New York,NY
-data scientist,"Germantown, MD",IT Services,Information Technology,96500,Germantown,MD
-data scientist,"Fishers, IN",Financial Transaction Processing,Finance,96500,Fishers,IN
-data scientist,"Saint Louis, MO",Building & Construction,"Building, Repair & Maintenance",96500,Saint Louis,MO
-data scientist,"Mountain View, CA",Healthcare Services & Hospitals,Healthcare,96500,Mountain View,CA
-data scientist,"Pittsburgh, PA",Colleges & Universities,Education,68500,Pittsburgh,PA
-data scientist,"New York, NY",-1,-1,68500,New York,NY
-data scientist,"Sunnyvale, CA",IT Services,Information Technology,68500,Sunnyvale,CA
-data scientist,"Seattle, WA",Internet,Information Technology,68500,Seattle,WA
-data scientist,"Santa Barbara, CA",Computer Hardware & Software,Information Technology,68500,Santa Barbara,CA
-data scientist,"Dearborn, MI",Transportation Equipment Manufacturing,Manufacturing,68500,Dearborn,MI
-data scientist,"Wilmington, DE",Investment Banking & Asset Management,Finance,68500,Wilmington,DE
-data scientist,"Miami, FL",-1,-1,68500,Miami,FL
-data scientist,"Ann Arbor, MI",Research & Development,Business Services,68500,Ann Arbor,MI
-data scientist,"Charlottesville, VA",Aerospace & Defence,Aerospace & Defence,68500,Charlottesville,VA
-data scientist,"Dearborn, MI",Film Production & Distribution,Media,68500,Dearborn,MI
-data scientist,"Mountain View, CA",Internet,Information Technology,68500,Mountain View,CA
-data scientist,"Oxnard, CA",Consulting,Business Services,68500,Oxnard,CA
-data scientist,"Indianapolis, IN",Consulting,Business Services,68500,Indianapolis,IN
-data scientist,"Salt Lake City, UT",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,68500,Salt Lake City,UT
-data scientist,"Lake Oswego, OR",Computer Hardware & Software,Information Technology,68500,Lake Oswego,OR
-data scientist,"Charleston, SC",Computer Hardware & Software,Information Technology,68500,Charleston,SC
-data scientist,"Portland, OR",Internet,Information Technology,68500,Portland,OR
-data scientist,"San Francisco, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,68500,San Francisco,CA
-data scientist,"Thousand Oaks, CA",-1,-1,68500,Thousand Oaks,CA
-data scientist,"Keene, NH",IT Services,Information Technology,68500,Keene,NH
-data scientist,"New York, NY",Consumer Product Hire,Consumer Services,68500,New York,NY
-data scientist,"Rosemont, IL",Research & Development,Business Services,68500,Rosemont,IL
-data scientist,"Palo Alto, CA",Internet,Information Technology,68500,Palo Alto,CA
-data scientist,"Columbia, MD",IT Services,Information Technology,68500,Columbia,MD
-data scientist,"Napa, CA",Food & Beverage Shops,Retail,68500,Napa,CA
-data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,68500,Cambridge,MA
-data scientist,"San Jose, CA",Computer Hardware & Software,Information Technology,68500,San Jose,CA
-data scientist,"Dayton, OH",Consulting,Business Services,68500,Dayton,OH
-data scientist,"Reston, VA",IT Services,Information Technology,145500,Reston,VA
-data scientist,"Livermore, CA",Government Agencies,Government,145500,Livermore,CA
-data scientist,"San Diego, CA",Enterprise Software & Network Solutions,Information Technology,145500,San Diego,CA
-data scientist,"Andover, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,145500,Andover,MA
-data scientist,"Richmond, VA",IT Services,Information Technology,145500,Richmond,VA
-data scientist,"Menlo Park, CA",Architectural & Engineering Services,Business Services,145500,Menlo Park,CA
-data scientist,"Aliso Viejo, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,145500,Aliso Viejo,CA
-data scientist,"New Hyde Park, NY",Healthcare Services & Hospitals,Healthcare,145500,New Hyde Park,NY
-data scientist,"New York, NY",-1,-1,145500,New York,NY
-data scientist,"Chicago, IL",Staffing & Outsourcing,Business Services,145500,Chicago,IL
-data scientist,"Conshohocken, PA",Home Furniture and Houseware Shops,Retail,145500,Conshohocken,PA
-data scientist,"Richmond, VA",-1,-1,145500,Richmond,VA
-data scientist,"New York, NY",TV Broadcasting & Cable Networks,Media,145500,New York,NY
-data scientist,"Wichita, KS",Banks & Building Societies,Finance,145500,Wichita,KS
-data scientist,"Philadelphia, PA",IT Services,Information Technology,145500,Philadelphia,PA
-data scientist,"Elmhurst, IL",Staffing & Outsourcing,Business Services,145500,Elmhurst,IL
-data scientist,"Sandy, UT",Staffing & Outsourcing,Business Services,145500,Sandy,UT
-data scientist,"Cincinnati, OH",Chemical Manufacturing,Manufacturing,145500,Cincinnati,OH
-data scientist,"San Francisco, CA",Other Retail Shops,Retail,145500,San Francisco,CA
-data scientist,"South San Francisco, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,145500,South San Francisco,CA
-data scientist,"Overland Park, KS",Telecommunications Services,Telecommunications,145500,Overland Park,KS
-data scientist,"San Bruno, CA",-1,-1,145500,San Bruno,CA
-data scientist,"San Bruno, CA",IT Services,Information Technology,145500,San Bruno,CA
-data scientist,"Philadelphia, PA",Colleges & Universities,Education,145500,Philadelphia,PA
-data scientist,"College Park, MD",Colleges & Universities,Education,145500,College Park,MD
-data scientist,"Winters, TX",Accounting,Accounting & Legal,0,Winters,TX
-data scientist,"Great Neck, NY",Computer Hardware & Software,Information Technology,0,Great Neck,NY
-data scientist,"New York, NY",IT Services,Information Technology,0,New York,NY
-data scientist,"Worcester, MA",Insurance Operators,Insurance,0,Worcester,MA
-data scientist,"Redmond, WA",-1,-1,0,Redmond,WA
-data scientist,"Akron, OH",IT Services,Information Technology,0,Akron,OH
-data scientist,"Saint Louis, MO",Staffing & Outsourcing,Business Services,0,Saint Louis,MO
-data scientist,"Madison, WI",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,0,Madison,WI
-data scientist,"Costa Mesa, CA",Lending,Finance,0,Costa Mesa,CA
-data scientist,"New York, NY",-1,-1,0,New York,NY
-data scientist,"Kansas City, MO",Architectural & Engineering Services,Business Services,0,Kansas City,MO
-data scientist,"Fort Lee, NJ",Advertising & Marketing,Business Services,0,Fort Lee,NJ
-data scientist,"Houston, TX",-1,-1,0,Houston,TX
-data scientist,"Duluth, GA",Insurance Operators,Insurance,0,Duluth,GA
-data scientist,"West New York, NJ",IT Services,Information Technology,0,West New York,NJ
-data scientist,"Sterling, VA",IT Services,Information Technology,0,Sterling,VA
-data scientist,"Seattle, WA",-1,-1,0,Seattle,WA
-data scientist,"Mountain View, CA",Advertising & Marketing,Business Services,0,Mountain View,CA
-data scientist,"Morrisville, NC",Staffing & Outsourcing,Business Services,0,Morrisville,NC
-data scientist,"Seattle, WA",-1,-1,0,Seattle,WA
-data scientist,"Morrisville, NC",-1,-1,0,Morrisville,NC
-data scientist,"Irvine, CA",IT Services,Information Technology,0,Irvine,CA
-data scientist,"Kansas City, MO",Membership Organisations,Business Services,0,Kansas City,MO
-data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,0,Cambridge,MA
-data scientist,"New York, NY",Enterprise Software & Network Solutions,Information Technology,0,New York,NY
-data scientist,"Redmond, WA",-1,-1,0,Redmond,WA
-data scientist,"Menlo Park, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,0,Menlo Park,CA
-data scientist,"King of Prussia, PA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,0,King of Prussia,PA
-data scientist,"Henrico, VA",Insurance Operators,Insurance,100500,Henrico,VA
-data scientist,"Houston, TX",-1,-1,100500,Houston,TX
-data scientist,"San Francisco, CA",Enterprise Software & Network Solutions,Information Technology,100500,San Francisco,CA
-data scientist,"Fort Sam Houston, TX",-1,-1,100500,Fort Sam Houston,TX
-data scientist,"El Segundo, CA",Internet,Information Technology,100500,El Segundo,CA
-data scientist,"Kirkland, WA",Staffing & Outsourcing,Business Services,100500,Kirkland,WA
-data scientist,"Chesapeake, VA",Aerospace & Defence,Aerospace & Defence,100500,Chesapeake,VA
-data scientist,"Buffalo, NY",Enterprise Software & Network Solutions,Information Technology,100500,Buffalo,NY
-data scientist,Remote,Computer Hardware & Software,Information Technology,100500,Remote,
-data scientist,"Washington, DC",IT Services,Information Technology,100500,Washington,DC
-data scientist,"San Jose, CA",Internet,Information Technology,100500,San Jose,CA
-data scientist,"San Mateo, CA",Sporting Goods Shops,Retail,100500,San Mateo,CA
-data scientist,"Charlotte, NC",IT Services,Information Technology,100500,Charlotte,NC
-data scientist,"Buckhead, GA","Health, Beauty & Fitness",Consumer Services,100500,Buckhead,GA
-data scientist,"Great Neck, NY",-1,-1,100500,Great Neck,NY
-data scientist,"Brooklyn, NY",-1,-1,100500,Brooklyn,NY
-data scientist,"Chandler, AZ",Banks & Building Societies,Finance,100500,Chandler,AZ
-data scientist,"Springfield, VA",Government Agencies,Government,100500,Springfield,VA
-data scientist,"Denver, CO",Computer Hardware & Software,Information Technology,100500,Denver,CO
-data scientist,"Sandpoint, ID",Advertising & Marketing,Business Services,100500,Sandpoint,ID
-data scientist,"San Francisco, CA",Enterprise Software & Network Solutions,Information Technology,100500,San Francisco,CA
-data scientist,"Dayton, OH",Consulting,Business Services,100500,Dayton,OH
-data scientist,"Seattle, WA",-1,-1,100500,Seattle,WA
-data scientist,"San Ramon, CA",Advertising & Marketing,Business Services,100500,San Ramon,CA
-data scientist,Remote,IT Services,Information Technology,100500,Remote,
-data scientist,"Richmond, VA",Staffing & Outsourcing,Business Services,100500,Richmond,VA
-data scientist,"Saint Petersburg Beach, FL",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,100500,Saint Petersburg Beach,FL
-data scientist,"Nashville, TN",IT Services,Information Technology,100500,Nashville,TN
-data scientist,"Madison, WI",-1,-1,97000,Madison,WI
-data scientist,"San Francisco, CA",Research & Development,Business Services,97000,San Francisco,CA
-data scientist,"New York, NY",Healthcare Services & Hospitals,Healthcare,97000,New York,NY
-data scientist,"Pittsburgh, PA",Healthcare Services & Hospitals,Healthcare,97000,Pittsburgh,PA
-data scientist,"Rosemont, IL",Staffing & Outsourcing,Business Services,97000,Rosemont,IL
-data scientist,"Concord, CA",Banks & Building Societies,Finance,97000,Concord,CA
-data scientist,"Salt Lake City, UT",Healthcare Services & Hospitals,Healthcare,97000,Salt Lake City,UT
-data scientist,"Longmont, CO",IT Services,Information Technology,97000,Longmont,CO
-data scientist,Remote,Internet,Information Technology,97000,Remote,
-data scientist,"Waltham, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,97000,Waltham,MA
-data scientist,"Palo Alto, CA",Enterprise Software & Network Solutions,Information Technology,97000,Palo Alto,CA
-data scientist,"San Francisco, CA",-1,-1,97000,San Francisco,CA
-data scientist,"New York, NY",Computer Hardware & Software,Information Technology,97000,New York,NY
-data scientist,"Phoenix, AZ",Computer Hardware & Software,Information Technology,97000,Phoenix,AZ
-data scientist,"San Francisco, CA",Internet,Information Technology,97000,San Francisco,CA
-data scientist,"Menlo Park, CA",-1,-1,97000,Menlo Park,CA
-data scientist,"Cincinnati, OH",Chemical Manufacturing,Manufacturing,97000,Cincinnati,OH
-data scientist,"Tysons, VA",Aerospace & Defence,Aerospace & Defence,97000,Tysons,VA
-data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,97000,Cambridge,MA
-data scientist,"Brentwood, TN",Logistics & Supply Chain,Transportation & Logistics,97000,Brentwood,TN
-data scientist,"Washington, DC",Enterprise Software & Network Solutions,Information Technology,97000,Washington,DC
-data scientist,"Chicago, IL",Computer Hardware & Software,Information Technology,97000,Chicago,IL
-data scientist,"Louisville, KY",Enterprise Software & Network Solutions,Information Technology,97000,Louisville,KY
-data scientist,"Boston, MA",Consulting,Business Services,97000,Boston,MA
-data scientist,"Milwaukee, WI",IT Services,Information Technology,97000,Milwaukee,WI
-data scientist,"Aurora, CO",Colleges & Universities,Education,97000,Aurora,CO
-data scientist,"Cambridge, MA",Enterprise Software & Network Solutions,Information Technology,97000,Cambridge,MA
-data scientist,"Chicago, IL",Staffing & Outsourcing,Business Services,97000,Chicago,IL
-data scientist,"Charlottesville, VA",Government Agencies,Government,97000,Charlottesville,VA
-data scientist,"Houston, TX",Enterprise Software & Network Solutions,Information Technology,119000,Houston,TX
-data scientist,"Boston, MA",Insurance Operators,Insurance,119000,Boston,MA
-data scientist,"Chantilly, VA",-1,-1,119000,Chantilly,VA
-data scientist,"Arlington, VA",Consumer Products Manufacturing,Manufacturing,119000,Arlington,VA
-data scientist,"Gresham, OR",Electrical & Electronic Manufacturing,Manufacturing,119000,Gresham,OR
-data scientist,"Omaha, NE",Consulting,Business Services,119000,Omaha,NE
-data scientist,"San Francisco, CA",Enterprise Software & Network Solutions,Information Technology,119000,San Francisco,CA
-data scientist,Remote,-1,-1,119000,Remote,
-data scientist,"Washington, DC",IT Services,Information Technology,119000,Washington,DC
-data scientist,"New York, NY","Health, Beauty & Fitness",Consumer Services,119000,New York,NY
-data scientist,"Saint Louis, MO",-1,-1,119000,Saint Louis,MO
-data scientist,"Minneapolis, MN",Consulting,Business Services,119000,Minneapolis,MN
-data scientist,"Gaithersburg, MD",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,119000,Gaithersburg,MD
-data scientist,"New York, NY",Financial Transaction Processing,Finance,119000,New York,NY
-data scientist,"Washington, DC",Enterprise Software & Network Solutions,Information Technology,119000,Washington,DC
-data scientist,"New York, NY",Staffing & Outsourcing,Business Services,119000,New York,NY
-data scientist,"Seattle, WA",Enterprise Software & Network Solutions,Information Technology,119000,Seattle,WA
-data scientist,"Holyoke, MA",Banks & Building Societies,Finance,119000,Holyoke,MA
-data scientist,"San Antonio, TX",Computer Hardware & Software,Information Technology,119000,San Antonio,TX
-data scientist,"Boise, ID",-1,-1,119000,Boise,ID
-data scientist,"New York, NY",Enterprise Software & Network Solutions,Information Technology,119000,New York,NY
-data scientist,"Saint Louis, MO",Grocery Shops & Supermarkets,Retail,119000,Saint Louis,MO
-data scientist,"Denver, CO",Staffing & Outsourcing,Business Services,119000,Denver,CO
-data scientist,"Elmhurst, IL",-1,-1,119000,Elmhurst,IL
-data scientist,"New York, NY",Banks & Building Societies,Finance,119000,New York,NY
-data scientist,"Herndon, VA",Enterprise Software & Network Solutions,Information Technology,119000,Herndon,VA
-data scientist,"Cleveland, OH",Industrial Manufacturing,Manufacturing,91000,Cleveland,OH
-data scientist,"Redmond, WA",IT Services,Information Technology,91000,Redmond,WA
-data scientist,"Washington, DC",-1,-1,91000,Washington,DC
-data scientist,"San Carlos, CA",Farm Support Services,Agriculture & Forestry,91000,San Carlos,CA
-data scientist,"San Francisco, CA",Internet,Information Technology,91000,San Francisco,CA
-data scientist,"Seattle, WA",Computer Hardware & Software,Information Technology,91000,Seattle,WA
-data scientist,"Hoover, AL",Banks & Building Societies,Finance,91000,Hoover,AL
-data scientist,"Boston, MA",Insurance Operators,Insurance,91000,Boston,MA
-data scientist,"Arlington, VA",IT Services,Information Technology,91000,Arlington,VA
-data scientist,"Menlo Park, CA",Enterprise Software & Network Solutions,Information Technology,91000,Menlo Park,CA
-data scientist,"Richmond, VA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,91000,Richmond,VA
-data scientist,"South San Francisco, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,91000,South San Francisco,CA
-data scientist,"San Francisco, CA",Stock Exchanges,Finance,91000,San Francisco,CA
-data scientist,"Hartford, CT",-1,-1,91000,Hartford,CT
-data scientist,"San Francisco, CA",Computer Hardware & Software,Information Technology,91000,San Francisco,CA
-data scientist,"Oakland, CA",Insurance Operators,Insurance,91000,Oakland,CA
-data scientist,"Vienna, VA",Staffing & Outsourcing,Business Services,91000,Vienna,VA
-data scientist,"Philadelphia, PA",Enterprise Software & Network Solutions,Information Technology,91000,Philadelphia,PA
-data scientist,"Greenwich, CT",Brokerage Services,Finance,91000,Greenwich,CT
-data scientist,"San Clemente, CA",Healthcare Services & Hospitals,Healthcare,91000,San Clemente,CA
-data scientist,"West Palm Beach, FL",IT Services,Information Technology,91000,West Palm Beach,FL
-data scientist,"Herndon, VA",Aerospace & Defence,Aerospace & Defence,91000,Herndon,VA
-data scientist,"San Antonio, TX",Radio,Media,91000,San Antonio,TX
-data scientist,"Sunnyvale, CA",Computer Hardware & Software,Information Technology,91000,Sunnyvale,CA
-data scientist,"San Francisco, CA",Enterprise Software & Network Solutions,Information Technology,91000,San Francisco,CA
-data scientist,"Boston, MA",Beauty & Personal Accessories Shops,Retail,91000,Boston,MA
-data scientist,"Washington, DC",IT Services,Information Technology,91000,Washington,DC
-data scientist,"New York, NY",Lending,Finance,110500,New York,NY
-data scientist,"San Mateo, CA",Enterprise Software & Network Solutions,Information Technology,110500,San Mateo,CA
-data scientist,"Washington, DC",Enterprise Software & Network Solutions,Information Technology,110500,Washington,DC
-data scientist,"Oshkosh, WI",Transportation Equipment Manufacturing,Manufacturing,110500,Oshkosh,WI
-data scientist,"Richmond, VA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,110500,Richmond,VA
-data scientist,"Springfield, VA",Government Agencies,Government,110500,Springfield,VA
-data scientist,"Springfield, VA",Aerospace & Defence,Aerospace & Defence,110500,Springfield,VA
-data scientist,"Irvine, CA",Investment Banking & Asset Management,Finance,110500,Irvine,CA
-data scientist,"Columbus, OH",Accounting,Accounting & Legal,110500,Columbus,OH
-data scientist,"Juno Beach, FL",IT Services,Information Technology,110500,Juno Beach,FL
-data scientist,"Seattle, WA",Computer Hardware & Software,Information Technology,110500,Seattle,WA
-data scientist,"Adelphi, MD",IT Services,Information Technology,110500,Adelphi,MD
-data scientist,"Santa Clara, CA",Computer Hardware & Software,Information Technology,110500,Santa Clara,CA
-data scientist,"Honolulu, HI",Aerospace & Defence,Aerospace & Defence,110500,Honolulu,HI
-data scientist,"Santa Clara, CA",Computer Hardware & Software,Information Technology,110500,Santa Clara,CA
-data scientist,"Birmingham, AL",-1,-1,110500,Birmingham,AL
-data scientist,"Oak Ridge, TN",Aerospace & Defence,Aerospace & Defence,110500,Oak Ridge,TN
-data scientist,"Boston, MA",-1,-1,110500,Boston,MA
-data scientist,"Denver, CO",Consulting,Business Services,110500,Denver,CO
-data scientist,"Los Angeles, CA",Internet,Information Technology,110500,Los Angeles,CA
-data scientist,"San Francisco, CA",Internet,Information Technology,110500,San Francisco,CA
-data scientist,"Rosemead, CA",Utilities,"Oil, Gas, Energy & Utilities",110500,Rosemead,CA
-data scientist,"Chantilly, VA",Computer Hardware & Software,Information Technology,110500,Chantilly,VA
-data scientist,"High Point, NC",Transportation Management,Transportation & Logistics,110500,High Point,NC
-data scientist,"Redwood City, CA",Internet,Information Technology,110500,Redwood City,CA
-data scientist,"North Palm Beach, FL",-1,-1,110500,North Palm Beach,FL
-data scientist,"New York, NY",Auctions & Galleries,Retail,110500,New York,NY
-data scientist,"Denver, CO",Consulting,Business Services,110500,Denver,CO
-data scientist,"Portland, OR",Internet,Information Technology,110500,Portland,OR
-data scientist,"Washington, DC",Computer Hardware & Software,Information Technology,130500,Washington,DC
-data scientist,"Fort Huachuca, AZ",Aerospace & Defence,Aerospace & Defence,130500,Fort Huachuca,AZ
-data scientist,"Columbus, OH",Lending,Finance,130500,Columbus,OH
-data scientist,"Waltham, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,130500,Waltham,MA
-data scientist,"Washington, DC",IT Services,Information Technology,130500,Washington,DC
-data scientist,"Minneapolis, MN",-1,-1,130500,Minneapolis,MN
-data scientist,"Chicago, IL",Consulting,Business Services,130500,Chicago,IL
-data scientist,"Palo Alto, CA",-1,-1,130500,Palo Alto,CA
-data scientist,"Wellesley, MA",Insurance Operators,Insurance,130500,Wellesley,MA
-data scientist,"Sunnyvale, CA",Staffing & Outsourcing,Business Services,130500,Sunnyvale,CA
-data scientist,Remote,Healthcare Services & Hospitals,Healthcare,130500,Remote,
-data scientist,"Annapolis Junction, MD",Enterprise Software & Network Solutions,Information Technology,130500,Annapolis Junction,MD
-data scientist,"Reston, VA",IT Services,Information Technology,130500,Reston,VA
-data scientist,"Los Angeles, CA",Video Games,Media,130500,Los Angeles,CA
-data scientist,"Ithaca, NY",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,130500,Ithaca,NY
-data scientist,"Ewing, NJ",-1,-1,130500,Ewing,NJ
-data scientist,"San Francisco, CA",Computer Hardware & Software,Information Technology,130500,San Francisco,CA
-data scientist,"Natick, MA",Staffing & Outsourcing,Business Services,130500,Natick,MA
-data scientist,"Milwaukee, WI",Banks & Building Societies,Finance,130500,Milwaukee,WI
-data scientist,"Schaumburg, IL",Insurance Operators,Insurance,130500,Schaumburg,IL
-data scientist,"Charlotte, NC",-1,-1,130500,Charlotte,NC
-data scientist,"Chicago, IL",Enterprise Software & Network Solutions,Information Technology,130500,Chicago,IL
-data scientist,"San Jose, CA",Internet,Information Technology,130500,San Jose,CA
-data scientist,"San Francisco, CA",-1,-1,130500,San Francisco,CA
-data scientist,"Boston, MA",Healthcare Services & Hospitals,Healthcare,130500,Boston,MA
-data scientist,"Cincinnati, OH",IT Services,Information Technology,89500,Cincinnati,OH
-data scientist,"Chicago, IL",Advertising & Marketing,Business Services,89500,Chicago,IL
-data scientist,"Auburn Hills, MI",IT Services,Information Technology,89500,Auburn Hills,MI
-data scientist,"Boulder, CO",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,89500,Boulder,CO
-data scientist,"Cedar Rapids, IA",Lending,Finance,89500,Cedar Rapids,IA
-data scientist,"Cedar Rapids, IA",Insurance Operators,Insurance,89500,Cedar Rapids,IA
-data scientist,"Seattle, WA",-1,-1,89500,Seattle,WA
-data scientist,"Hopkins, MN",Consulting,Business Services,89500,Hopkins,MN
-data scientist,"Fulton, MD",Government Agencies,Government,89500,Fulton,MD
-data scientist,"Atlanta, GA",IT Services,Information Technology,89500,Atlanta,GA
-data scientist,"Pittsburgh, PA",Enterprise Software & Network Solutions,Information Technology,89500,Pittsburgh,PA
-data scientist,"New York, NY",Computer Hardware & Software,Information Technology,89500,New York,NY
-data scientist,"Bentonville, AR",-1,-1,89500,Bentonville,AR
-data scientist,"Columbus, OH","Department, Clothing, & Shoe Shops",Retail,89500,Columbus,OH
-data scientist,"New York, NY",Advertising & Marketing,Business Services,89500,New York,NY
-data scientist,"Berkeley, CA",Regional & County Councils,Government,89500,Berkeley,CA
-data scientist,"Boston, MA",Internet,Information Technology,89500,Boston,MA
-data scientist,"Aurora, CO",Colleges & Universities,Education,89500,Aurora,CO
-data scientist,"Chicago, IL",IT Services,Information Technology,89500,Chicago,IL
-data scientist,"Houston, TX",Utilities,"Oil, Gas, Energy & Utilities",89500,Houston,TX
-data scientist,"Norfolk, VA",Aerospace & Defence,Aerospace & Defence,89500,Norfolk,VA
-data scientist,"Dania Beach, FL",Pet & Pet Supply Shops,Retail,89500,Dania Beach,FL
-data scientist,"Emeryville, CA",-1,-1,89500,Emeryville,CA
-data scientist,"Boston, MA",IT Services,Information Technology,89500,Boston,MA
-data scientist,Remote,Internet,Information Technology,89500,Remote,
-data scientist,"Cincinnati, OH",IT Services,Information Technology,89500,Cincinnati,OH
-data scientist,"Honolulu, HI",Computer Hardware & Software,Information Technology,89500,Honolulu,HI
-data scientist,"Reston, VA",Consulting,Business Services,89500,Reston,VA
-data scientist,"Memphis, TN",Healthcare Services & Hospitals,Healthcare,92000,Memphis,TN
-data scientist,"San Francisco, CA",Internet,Information Technology,92000,San Francisco,CA
-data scientist,"Tempe, AZ",Petrol Stations,Retail,92000,Tempe,AZ
-data scientist,"Sunnyvale, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,92000,Sunnyvale,CA
-data scientist,"Lincoln, NE",Enterprise Software & Network Solutions,Information Technology,92000,Lincoln,NE
-data scientist,"Carle Place, NY",Wholesale,Business Services,92000,Carle Place,NY
-data scientist,"Washington, DC",Consulting,Business Services,92000,Washington,DC
-data scientist,Virginia,IT Services,Information Technology,92000,Virginia,
-data scientist,United States,Ticket Sales,"Arts, Entertainment & Recreation",92000,United States,
-data scientist,"Boca Raton, FL",IT Services,Information Technology,92000,Boca Raton,FL
-data scientist,"San Diego, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,92000,San Diego,CA
-data scientist,"Ithaca, NY",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,92000,Ithaca,NY
-data scientist,"Boston, MA",-1,-1,92000,Boston,MA
-data scientist,"San Francisco, CA",Enterprise Software & Network Solutions,Information Technology,92000,San Francisco,CA
-data scientist,"North Chicago, IL",Staffing & Outsourcing,Business Services,92000,North Chicago,IL
-data scientist,"Langley AFB, VA",Research & Development,Business Services,92000,Langley AFB,VA
-data scientist,"Fremont, CA",Internet,Information Technology,92000,Fremont,CA
-data scientist,"Phoenix, AZ",Advertising & Marketing,Business Services,92000,Phoenix,AZ
-data scientist,"Quantico, VA",-1,-1,92000,Quantico,VA
-data scientist,"Houston, TX",Healthcare Services & Hospitals,Healthcare,92000,Houston,TX
-data scientist,"Collegeville, PA",IT Services,Information Technology,92000,Collegeville,PA
-data scientist,"Houston, TX",-1,-1,92000,Houston,TX
-data scientist,"Richmond, VA",Legal,Accounting & Legal,92000,Richmond,VA
-data scientist,"Jericho, NY",-1,-1,92000,Jericho,NY
-data scientist,"New York, NY",Staffing & Outsourcing,Business Services,92000,New York,NY
-data scientist,"Davis, CA",Enterprise Software & Network Solutions,Information Technology,92000,Davis,CA
-data scientist,"Alpharetta, GA",IT Services,Information Technology,91500,Alpharetta,GA
-data scientist,"Ann Arbor, MI",Internet,Information Technology,91500,Ann Arbor,MI
-data scientist,"Herndon, VA",Architectural & Engineering Services,Business Services,91500,Herndon,VA
-data scientist,"Detroit, MI",Real Estate,Real Estate,91500,Detroit,MI
-data scientist,"New York, NY",-1,-1,91500,New York,NY
-data scientist,"Plano, TX",Insurance Operators,Insurance,91500,Plano,TX
-data scientist,"New York, NY",Healthcare Services & Hospitals,Healthcare,91500,New York,NY
-data scientist,"New York, NY",Other Retail Shops,Retail,91500,New York,NY
-data scientist,"Reston, VA",IT Services,Information Technology,91500,Reston,VA
-data scientist,"Santa Ana, CA",IT Services,Information Technology,91500,Santa Ana,CA
-data scientist,"Chesapeake, VA",Staffing & Outsourcing,Business Services,91500,Chesapeake,VA
-data scientist,"Chesapeake, VA",Computer Hardware & Software,Information Technology,91500,Chesapeake,VA
-data scientist,"Baltimore, MD",Staffing & Outsourcing,Business Services,91500,Baltimore,MD
-data scientist,"Washington, DC",Lending,Finance,91500,Washington,DC
-data scientist,"New York, NY",Staffing & Outsourcing,Business Services,91500,New York,NY
-data scientist,"Seattle, WA",Publishing,Media,91500,Seattle,WA
-data scientist,Remote,Food & Beverage Shops,Retail,91500,Remote,
-data scientist,"Panama City, FL",Healthcare Services & Hospitals,Healthcare,91500,Panama City,FL
-data scientist,"Cambridge, MD",Food & Drink Manufacturing,Manufacturing,91500,Cambridge,MD
-data scientist,"Chicago, IL",Computer Hardware & Software,Information Technology,91500,Chicago,IL
-data scientist,"Reston, VA",Computer Hardware & Software,Information Technology,91500,Reston,VA
-data scientist,"San Francisco, CA",IT Services,Information Technology,91500,San Francisco,CA
-data scientist,"Pittsburgh, PA",Staffing & Outsourcing,Business Services,91500,Pittsburgh,PA
-data scientist,"Pittsburgh, PA",Consulting,Business Services,91500,Pittsburgh,PA
-data scientist,Remote,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,91500,Remote,
-data scientist,"Omaha, NE",-1,-1,91500,Omaha,NE
-data scientist,"Seattle, WA",Other Retail Shops,Retail,91500,Seattle,WA
-data scientist,"Chicago, IL",IT Services,Information Technology,109000,Chicago,IL
-data scientist,"Brea, CA",IT Services,Information Technology,109000,Brea,CA
-data scientist,"Chantilly, VA",Aerospace & Defence,Aerospace & Defence,109000,Chantilly,VA
-data scientist,"New York, NY",Enterprise Software & Network Solutions,Information Technology,109000,New York,NY
-data scientist,"New York, NY",Banks & Building Societies,Finance,109000,New York,NY
-data scientist,"Chicago, IL",IT Services,Information Technology,109000,Chicago,IL
-data scientist,"San Mateo, CA",-1,-1,109000,San Mateo,CA
-data scientist,"New York, NY",Consulting,Business Services,109000,New York,NY
-data scientist,"Chicago, IL",Lending,Finance,109000,Chicago,IL
-data scientist,"Washington, DC",Enterprise Software & Network Solutions,Information Technology,109000,Washington,DC
-data scientist,"New York, NY",Colleges & Universities,Education,109000,New York,NY
-data scientist,"New York, NY",Enterprise Software & Network Solutions,Information Technology,109000,New York,NY
-data scientist,"Dallas, TX",IT Services,Information Technology,109000,Dallas,TX
-data scientist,"Denver, CO",Consulting,Business Services,109000,Denver,CO
-data scientist,"Palo Alto, CA",Staffing & Outsourcing,Business Services,109000,Palo Alto,CA
-data scientist,"Thousand Oaks, CA",-1,-1,109000,Thousand Oaks,CA
-data scientist,"Houston, TX",Oil & Gas Services,"Oil, Gas, Energy & Utilities",109000,Houston,TX
-data scientist,Virginia,Social Services,Non-Profits,109000,Virginia,
-data scientist,"Chicago, IL",IT Services,Information Technology,109000,Chicago,IL
-data scientist,Remote,Enterprise Software & Network Solutions,Information Technology,109000,Remote,
-data scientist,"Santa Clara, CA",IT Services,Information Technology,109000,Santa Clara,CA
-data scientist,"McLean, VA",Enterprise Software & Network Solutions,Information Technology,109000,McLean,VA
-data scientist,"New York, NY",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,109000,New York,NY
-data scientist,"Southfield, MI",Insurance Agencies & Brokerages,Insurance,109000,Southfield,MI
-data scientist,"Huntsville, AL",IT Services,Information Technology,109000,Huntsville,AL
-data scientist,"Austin, TX",Internet,Information Technology,109000,Austin,TX
-data scientist,"Seattle, WA",Advertising & Marketing,Business Services,109000,Seattle,WA
-data scientist,"Woonsocket, RI",Consulting,Business Services,80000,Woonsocket,RI
-data scientist,"Rockville, MD",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,80000,Rockville,MD
-data scientist,"Indianapolis, IN",Consulting,Business Services,80000,Indianapolis,IN
-data scientist,"Fort Sam Houston, TX",-1,-1,80000,Fort Sam Houston,TX
-data scientist,"Clayton, MO",Staffing & Outsourcing,Business Services,80000,Clayton,MO
-data scientist,"Burbank, CA",TV Broadcasting & Cable Networks,Media,80000,Burbank,CA
-data scientist,"Rochester, NY",-1,-1,80000,Rochester,NY
-data scientist,"Denver, CO",Real Estate,Real Estate,80000,Denver,CO
-data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,80000,Cambridge,MA
-data scientist,"Nashville, TN",Healthcare Services & Hospitals,Healthcare,80000,Nashville,TN
-data scientist,"Washington, DC",Government Agencies,Government,80000,Washington,DC
-data scientist,"Irving, TX",-1,-1,80000,Irving,TX
-data scientist,"Charlotte, NC",-1,-1,80000,Charlotte,NC
-data scientist,"Boston, MA",Computer Hardware & Software,Information Technology,80000,Boston,MA
-data scientist,"Carlsbad, CA",-1,-1,80000,Carlsbad,CA
-data scientist,"Fort George G Meade, MD",Computer Hardware & Software,Information Technology,80000,Fort George G Meade,MD
-data scientist,"Culver City, CA",Enterprise Software & Network Solutions,Information Technology,80000,Culver City,CA
-data scientist,"Jersey City, NJ",-1,-1,80000,Jersey City,NJ
-data scientist,"Washington, DC",IT Services,Information Technology,80000,Washington,DC
-data scientist,"Washington, DC",IT Services,Information Technology,80000,Washington,DC
-data scientist,"Waltham, MA",IT Services,Information Technology,80000,Waltham,MA
-data scientist,"Seattle, WA",Consumer Products Manufacturing,Manufacturing,80000,Seattle,WA
-data scientist,"New York, NY",Computer Hardware & Software,Information Technology,80000,New York,NY
-data scientist,"Valencia, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,80000,Valencia,CA
-data scientist,"Irwindale, CA",-1,-1,80000,Irwindale,CA
-data scientist,"San Mateo, CA",Computer Hardware & Software,Information Technology,80000,San Mateo,CA
-data scientist,"Jersey City, NJ",IT Services,Information Technology,80000,Jersey City,NJ
-data scientist,"Pittsburgh, PA",IT Services,Information Technology,121500,Pittsburgh,PA
-data scientist,"Herndon, VA",Computer Hardware & Software,Information Technology,121500,Herndon,VA
-data scientist,"San Francisco, CA",-1,-1,121500,San Francisco,CA
-data scientist,"Atlanta, GA",IT Services,Information Technology,121500,Atlanta,GA
-data scientist,"Seattle, WA",-1,-1,121500,Seattle,WA
-data scientist,"Dallas, TX",Banks & Building Societies,Finance,121500,Dallas,TX
-data scientist,"Washington, DC",Investment Banking & Asset Management,Finance,121500,Washington,DC
-data scientist,"Chicago, IL",Enterprise Software & Network Solutions,Information Technology,121500,Chicago,IL
-data scientist,"New York, NY",Consulting,Business Services,121500,New York,NY
-data scientist,"Juno Beach, FL",IT Services,Information Technology,121500,Juno Beach,FL
-data scientist,"Minneapolis, MN",Enterprise Software & Network Solutions,Information Technology,121500,Minneapolis,MN
-data scientist,"Raleigh, NC",IT Services,Information Technology,121500,Raleigh,NC
-data scientist,"Seattle, WA",Internet,Information Technology,121500,Seattle,WA
-data scientist,"Cary, NC",IT Services,Information Technology,121500,Cary,NC
-data scientist,"San Carlos, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,121500,San Carlos,CA
-data scientist,"Boston, MA",Investment Banking & Asset Management,Finance,121500,Boston,MA
-data scientist,"Boulder, CO",Internet,Information Technology,121500,Boulder,CO
-data scientist,"Gwynn Oak, MD",IT Services,Information Technology,121500,Gwynn Oak,MD
-data scientist,"Atlanta, GA",Enterprise Software & Network Solutions,Information Technology,121500,Atlanta,GA
-data scientist,"Fairfax, VA",Computer Hardware & Software,Information Technology,121500,Fairfax,VA
-data scientist,"Aliso Viejo, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,121500,Aliso Viejo,CA
-data scientist,"Omaha, NE",-1,-1,121500,Omaha,NE
-data scientist,"Bethesda, MD",Enterprise Software & Network Solutions,Information Technology,121500,Bethesda,MD
-data scientist,"Cambridge, MA",Staffing & Outsourcing,Business Services,121500,Cambridge,MA
-data scientist,"Birmingham, AL",-1,-1,121500,Birmingham,AL
-data scientist,"Austin, TX",Enterprise Software & Network Solutions,Information Technology,121500,Austin,TX
-data scientist,"Irving, TX",Staffing & Outsourcing,Business Services,121500,Irving,TX
-data scientist,"New York, NY",Enterprise Software & Network Solutions,Information Technology,121500,New York,NY
-data scientist,"Seattle, WA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,121500,Seattle,WA
-junior data scientist,"South San Francisco, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,84500,South San Francisco,CA
-junior data scientist,"New Bedford, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,84500,New Bedford,MA
-junior data scientist,"Smithfield, RI",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,126500,Smithfield,RI
-junior data scientist,"Boston, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,41600,Boston,MA
-junior data scientist,"Worcester, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,99500,Worcester,MA
-junior data scientist,"Raleigh, NC",Healthcare Services & Hospitals,Healthcare,124500,Raleigh,NC
-junior data scientist,"Bothell, WA",Utilities,"Oil, Gas, Energy & Utilities",184000,Bothell,WA
-junior data scientist,"Fargo, ND",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,111000,Fargo,ND
-junior data scientist,"South Plainfield, NJ",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,75500,South Plainfield,NJ
-junior data scientist,"Stamford, CT","Cable, Internet & Telephone Providers",Telecommunications,69500,Stamford,CT
-junior data scientist,"Gaithersburg, MD",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,127500,Gaithersburg,MD
-junior data scientist,"Richmond, VA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,127500,Richmond,VA
-junior data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,94500,Cambridge,MA
-junior data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,96500,Cambridge,MA
-junior data scientist,"Boston, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,145500,Boston,MA
-junior data scientist,"Huntsville, AL",Aerospace & Defence,Aerospace & Defence,92000,Huntsville,AL
-junior data scientist,"Richmond, VA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,92000,Richmond,VA
-junior data scientist,"South San Francisco, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,91500,South San Francisco,CA
-junior data scientist,"Harrisburg, PA",Advertising & Marketing,Business Services,109000,Harrisburg,PA
-junior data scientist,"New York, NY",Investment Banking & Asset Management,Finance,109000,New York,NY
-senior data scientist,"Atlanta, GA",Internet,Information Technology,84500,Atlanta,GA
-senior data scientist,"Dallas, TX",Security Services,Business Services,84500,Dallas,TX
-senior data scientist,"Lehi, UT",Lending,Finance,84500,Lehi,UT
-senior data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,84500,Cambridge,MA
-senior data scientist,"Denver, CO",Advertising & Marketing,Business Services,84500,Denver,CO
-senior data scientist,"Alexandria, VA",Research & Development,Business Services,84500,Alexandria,VA
-senior data scientist,"Salt Lake City, UT",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,84500,Salt Lake City,UT
-senior data scientist,"Bedford, MA",-1,-1,126500,Bedford,MA
-senior data scientist,"Seattle, WA",Computer Hardware & Software,Information Technology,126500,Seattle,WA
-senior data scientist,"Herndon, VA",Aerospace & Defence,Aerospace & Defence,126500,Herndon,VA
-senior data scientist,"San Francisco, CA",IT Services,Information Technology,41600,San Francisco,CA
-senior data scientist,"San Francisco, CA",Insurance Operators,Insurance,41600,San Francisco,CA
-senior data scientist,"Raleigh, NC",Enterprise Software & Network Solutions,Information Technology,41600,Raleigh,NC
-senior data scientist,"Madison, WI",Healthcare Services & Hospitals,Healthcare,41600,Madison,WI
-senior data scientist,"Burlington, MA",IT Services,Information Technology,41600,Burlington,MA
-senior data scientist,"Austin, TX",Enterprise Software & Network Solutions,Information Technology,41600,Austin,TX
-senior data scientist,"Chicago, IL",Staffing & Outsourcing,Business Services,41600,Chicago,IL
-senior data scientist,"Centennial, CO",Wholesale,Business Services,99500,Centennial,CO
-senior data scientist,"Sheboygan, WI",Insurance Operators,Insurance,99500,Sheboygan,WI
-senior data scientist,"Cincinnati, OH",Advertising & Marketing,Business Services,99500,Cincinnati,OH
-senior data scientist,"Provo, UT",Consumer Products Manufacturing,Manufacturing,99500,Provo,UT
-senior data scientist,"Detroit, MI",Advertising & Marketing,Business Services,99500,Detroit,MI
-senior data scientist,"San Francisco, CA",Internet,Information Technology,99500,San Francisco,CA
-senior data scientist,"Los Angeles, CA",Computer Hardware & Software,Information Technology,99500,Los Angeles,CA
-senior data scientist,"San Francisco, CA",Wholesale,Business Services,124500,San Francisco,CA
-senior data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,124500,Cambridge,MA
-senior data scientist,"Madison, WI",Healthcare Services & Hospitals,Healthcare,124500,Madison,WI
-senior data scientist,"Indianapolis, IN",Consulting,Business Services,124500,Indianapolis,IN
-senior data scientist,"Westminster, CO",Consulting,Business Services,124500,Westminster,CO
-senior data scientist,"Cambridge, MA",Research & Development,Business Services,124500,Cambridge,MA
-senior data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,124500,Cambridge,MA
-senior data scientist,"Winston-Salem, NC",Consumer Products Manufacturing,Manufacturing,57000,Winston-Salem,NC
-senior data scientist,"Bothell, WA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,57000,Bothell,WA
-senior data scientist,"Irvine, CA",Video Games,Media,57000,Irvine,CA
-senior data scientist,"Winston-Salem, NC",Consumer Products Manufacturing,Manufacturing,57000,Winston-Salem,NC
-senior data scientist,"Chicago, IL",Insurance Operators,Insurance,57000,Chicago,IL
-senior data scientist,"Hill AFB, UT",Aerospace & Defence,Aerospace & Defence,57000,Hill AFB,UT
-senior data scientist,"San Francisco, CA",Computer Hardware & Software,Information Technology,57000,San Francisco,CA
-senior data scientist,"Raleigh, NC",Healthcare Services & Hospitals,Healthcare,57000,Raleigh,NC
-senior data scientist,"Woodbridge, NJ",Insurance Operators,Insurance,57000,Woodbridge,NJ
-senior data scientist,"San Francisco, CA",Computer Hardware & Software,Information Technology,184000,San Francisco,CA
-senior data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,184000,Cambridge,MA
-senior data scientist,"Akron, OH",Consumer Products Manufacturing,Manufacturing,184000,Akron,OH
-senior data scientist,"South Plainfield, NJ",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,184000,South Plainfield,NJ
-senior data scientist,"Simi Valley, CA",Aerospace & Defence,Aerospace & Defence,184000,Simi Valley,CA
-senior data scientist,"Palo Alto, CA",Computer Hardware & Software,Information Technology,184000,Palo Alto,CA
-senior data scientist,"Ann Arbor, MI",Computer Hardware & Software,Information Technology,184000,Ann Arbor,MI
-senior data scientist,"Richland, WA",Energy,"Oil, Gas, Energy & Utilities",184000,Richland,WA
-senior data scientist,"Seattle, WA",Insurance Operators,Insurance,111000,Seattle,WA
-senior data scientist,"Pomona, CA",Utilities,"Oil, Gas, Energy & Utilities",111000,Pomona,CA
-senior data scientist,"Santa Monica, CA",Internet,Information Technology,111000,Santa Monica,CA
-senior data scientist,"San Diego, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,75500,San Diego,CA
-senior data scientist,"Herndon, VA",Enterprise Software & Network Solutions,Information Technology,75500,Herndon,VA
-senior data scientist,"Austin, TX",Enterprise Software & Network Solutions,Information Technology,75500,Austin,TX
-senior data scientist,"Fairfax, VA",Aerospace & Defence,Aerospace & Defence,75500,Fairfax,VA
-senior data scientist,"San Francisco, CA",Express Delivery Services,Transportation & Logistics,130000,San Francisco,CA
-senior data scientist,"Boston, MA",Computer Hardware & Software,Information Technology,130000,Boston,MA
-senior data scientist,"Fairfax, VA",Aerospace & Defence,Aerospace & Defence,130000,Fairfax,VA
-senior data scientist,"San Diego, CA",Computer Hardware & Software,Information Technology,130000,San Diego,CA
-senior data scientist,"Denver, CO",Enterprise Software & Network Solutions,Information Technology,56500,Denver,CO
-senior data scientist,"Cambridge, MA",Research & Development,Business Services,56500,Cambridge,MA
-senior data scientist,"Denver, CO",Computer Hardware & Software,Information Technology,56500,Denver,CO
-senior data scientist,"San Francisco, CA",Computer Hardware & Software,Information Technology,56500,San Francisco,CA
-senior data scientist,"Gaithersburg, MD",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,56500,Gaithersburg,MD
-senior data scientist,"Baltimore, MD",Advertising & Marketing,Business Services,56500,Baltimore,MD
-senior data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,56500,Cambridge,MA
-senior data scientist,"Cambridge, MA",Banks & Building Societies,Finance,56500,Cambridge,MA
-senior data scientist,"Saint Louis, MO",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,69500,Saint Louis,MO
-senior data scientist,"Austin, TX",Video Games,Media,69500,Austin,TX
-senior data scientist,"San Francisco, CA",Healthcare Services & Hospitals,Healthcare,69500,San Francisco,CA
-senior data scientist,"Richmond, VA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,69500,Richmond,VA
-senior data scientist,"Durham, NC",Computer Hardware & Software,Information Technology,127500,Durham,NC
-senior data scientist,"Chicago, IL",Financial Analytics & Research,Finance,127500,Chicago,IL
-senior data scientist,"Birmingham, AL",Consumer Product Hire,Consumer Services,127500,Birmingham,AL
-senior data scientist,"Santa Clara, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,127500,Santa Clara,CA
-senior data scientist,"Santa Clara, CA",Staffing & Outsourcing,Business Services,94500,Santa Clara,CA
-senior data scientist,"Gaithersburg, MD",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,94500,Gaithersburg,MD
-senior data scientist,"Atlanta, GA",IT Services,Information Technology,94500,Atlanta,GA
-senior data scientist,"Broomfield, CO","Cable, Internet & Telephone Providers",Telecommunications,96500,Broomfield,CO
-senior data scientist,"Rocklin, CA",Banks & Building Societies,Finance,96500,Rocklin,CA
-senior data scientist,"Watertown, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,68500,Watertown,MA
-senior data scientist,"Boston, MA",Insurance Operators,Insurance,145500,Boston,MA
-senior data scientist,"Malvern, PA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,145500,Malvern,PA
-senior data scientist,"Bedford, MA",Government Agencies,Government,145500,Bedford,MA
-senior data scientist,"Beavercreek, OH",Government Agencies,Government,0,Beavercreek,OH
-senior data scientist,"Ithaca, NY",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,0,Ithaca,NY
-senior data scientist,"Richmond, VA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,100500,Richmond,VA
-senior data scientist,"Philadelphia, PA",Healthcare Services & Hospitals,Healthcare,97000,Philadelphia,PA
-senior data scientist,"San Francisco, CA",Internet,Information Technology,119000,San Francisco,CA
-senior data scientist,"San Francisco, CA",Internet,Information Technology,119000,San Francisco,CA
-senior data scientist,"Saint Louis, MO",Staffing & Outsourcing,Business Services,119000,Saint Louis,MO
-senior data scientist,"San Francisco, CA",Computer Hardware & Software,Information Technology,119000,San Francisco,CA
-senior data scientist,"New York, NY",Insurance Operators,Insurance,91000,New York,NY
-senior data scientist,"Broomfield, CO","Cable, Internet & Telephone Providers",Telecommunications,110500,Broomfield,CO
-senior data scientist,"Twin Falls, ID",Food & Drink Manufacturing,Manufacturing,130500,Twin Falls,ID
-senior data scientist,"San Francisco, CA",Internet,Information Technology,130500,San Francisco,CA
-senior data scientist,"San Francisco, CA",Healthcare Services & Hospitals,Healthcare,130500,San Francisco,CA
-senior data scientist,"Arlington, VA",Consulting,Business Services,130500,Arlington,VA
-senior data scientist,"Bothell, WA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,89500,Bothell,WA
-senior data scientist,"New York, NY",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,89500,New York,NY
-senior data scientist,"Providence, RI",Insurance Operators,Insurance,92000,Providence,RI
-senior data scientist,"Fort Belvoir, VA",Enterprise Software & Network Solutions,Information Technology,91500,Fort Belvoir,VA
-senior data scientist,"Seattle, WA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,109000,Seattle,WA
-senior data scientist,Remote,Lending,Finance,80000,Remote,
-senior data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,80000,Cambridge,MA
-senior data scientist,"McLean, VA",Government Agencies,Government,80000,McLean,VA
+Job Title,Location,Industry,Sector,salary_average
+data scientist,"New York, NY",Advertising & Marketing,Business Services,84500
+data scientist,"Chantilly, VA",Research & Development,Business Services,84500
+data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,84500
+data scientist,"Overland Park, KS",Healthcare Services & Hospitals,Healthcare,84500
+data scientist,"San Francisco, CA",Government Agencies,Government,84500
+data scientist,"Chantilly, VA",Enterprise Software & Network Solutions,Information Technology,84500
+data scientist,"Miami, FL",Enterprise Software & Network Solutions,Information Technology,84500
+data scientist,"San Francisco, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,84500
+data scientist,New Jersey,Enterprise Software & Network Solutions,Information Technology,84500
+data scientist,Oregon,Food & Drink Manufacturing,Manufacturing,84500
+data scientist,"Chevy Chase, MD",Insurance Operators,Insurance,84500
+data scientist,"Scotts Valley, CA",Healthcare Services & Hospitals,Healthcare,84500
+data scientist,"Boston, MA",Consulting,Business Services,84500
+data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,84500
+data scientist,"Naperville, IL",Chemical Manufacturing,Manufacturing,84500
+data scientist,"Herndon, VA",Research & Development,Business Services,84500
+data scientist,"Hill AFB, UT",Aerospace & Defence,Aerospace & Defence,84500
+data scientist,"Woodbridge, NJ",Insurance Operators,Insurance,84500
+data scientist,"Alexandria, VA",Research & Development,Business Services,84500
+data scientist,"Spartanburg, SC",Lending,Finance,84500
+data scientist,"Ipswich, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,84500
+data scientist,"New York, NY",Insurance Operators,Insurance,126500
+data scientist,"Lexington, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,126500
+data scientist,"Lexington, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,126500
+data scientist,"Akron, OH",Healthcare Services & Hospitals,Healthcare,126500
+data scientist,"Madison, WI",Investment Banking & Asset Management,Finance,126500
+data scientist,"Bedford, MA",-1,-1,126500
+data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,126500
+data scientist,"Hoboken, NJ",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,126500
+data scientist,"Milwaukee, WI",Food & Drink Manufacturing,Manufacturing,126500
+data scientist,"Chantilly, VA",Enterprise Software & Network Solutions,Information Technology,126500
+data scientist,"Pittsburgh, PA",-1,-1,126500
+data scientist,"Reston, VA",Enterprise Software & Network Solutions,Information Technology,126500
+data scientist,"Waltham, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,126500
+data scientist,"San Francisco, CA",Enterprise Software & Network Solutions,Information Technology,126500
+data scientist,"Gardnerville, NV",Healthcare Services & Hospitals,Healthcare,126500
+data scientist,"Washington, DC",IT Services,Information Technology,126500
+data scientist,"Pittsburgh, PA",Banks & Building Societies,Finance,126500
+data scientist,"Bridgeport, WV",Consulting,Business Services,126500
+data scientist,"Newton, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,126500
+data scientist,"White Sands Missile Range, NM",Aerospace & Defence,Aerospace & Defence,126500
+data scientist,"Santa Clara, CA",Computer Hardware & Software,Information Technology,126500
+data scientist,"San Jose, CA",Computer Hardware & Software,Information Technology,126500
+data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,126500
+data scientist,"Pittsburgh, PA",Colleges & Universities,Education,126500
+data scientist,"New York, NY",Advertising & Marketing,Business Services,126500
+data scientist,"Los Angeles, CA",Enterprise Software & Network Solutions,Information Technology,126500
+data scientist,"Herndon, VA",IT Services,Information Technology,41600
+data scientist,"Arlington, VA",Aerospace & Defence,Aerospace & Defence,41600
+data scientist,"Washington, DC",Consulting,Business Services,41600
+data scientist,"Chicago, IL",Advertising & Marketing,Business Services,41600
+data scientist,"Charlotte, NC",Computer Hardware & Software,Information Technology,41600
+data scientist,"Beavercreek, OH",Government Agencies,Government,41600
+data scientist,"Redmond, WA",Consulting,Business Services,41600
+data scientist,"Boston, MA",Insurance Operators,Insurance,41600
+data scientist,"Laurel, MD",Aerospace & Defence,Aerospace & Defence,41600
+data scientist,"Chicago, IL",Healthcare Services & Hospitals,Healthcare,41600
+data scientist,"Plano, TX",Enterprise Software & Network Solutions,Information Technology,41600
+data scientist,"Herndon, VA",Enterprise Software & Network Solutions,Information Technology,41600
+data scientist,"Memphis, TN",Chemical Manufacturing,Manufacturing,41600
+data scientist,"Norwood, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,41600
+data scientist,"Bangor, ME",Commercial Equipment Repair & Maintenance,"Building, Repair & Maintenance",41600
+data scientist,"Creve Coeur, MO",Staffing & Outsourcing,Business Services,41600
+data scientist,"Enfield, CT",Insurance Operators,Insurance,41600
+data scientist,"San Diego, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,41600
+data scientist,"Lexington, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,41600
+data scientist,"Bridgewater, NJ",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,41600
+data scientist,"Mountain View, CA",Enterprise Software & Network Solutions,Information Technology,41600
+data scientist,"Novato, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,41600
+data scientist,"Saint Louis, MO",IT Services,Information Technology,99500
+data scientist,"Irvine, CA",IT Services,Information Technology,99500
+data scientist,"San Diego, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,99500
+data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,99500
+data scientist,"Chicago, IL",Enterprise Software & Network Solutions,Information Technology,99500
+data scientist,"Morrisville, NC",Computer Hardware & Software,Information Technology,99500
+data scientist,"New York, NY",Internet,Information Technology,99500
+data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,99500
+data scientist,"Annapolis Junction, MD",IT Services,Information Technology,99500
+data scientist,"Coral Gables, FL",Investment Banking & Asset Management,Finance,99500
+data scientist,"Novato, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,99500
+data scientist,Remote,Enterprise Software & Network Solutions,Information Technology,99500
+data scientist,"Dearborn, MI",Advertising & Marketing,Business Services,99500
+data scientist,"Milwaukee, WI",Food & Drink Manufacturing,Manufacturing,99500
+data scientist,"San Francisco, CA",Internet,Information Technology,99500
+data scientist,"Merrifield, VA",Banks & Building Societies,Finance,99500
+data scientist,"Richmond, VA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,99500
+data scientist,"Hauppauge, NY",-1,-1,99500
+data scientist,"New York, NY",Internet,Information Technology,99500
+data scientist,"Madison, WI",Insurance Operators,Insurance,99500
+data scientist,"Aurora, IL",Healthcare Services & Hospitals,Healthcare,99500
+data scientist,"Westlake, TX",Investment Banking & Asset Management,Finance,99500
+data scientist,"San Francisco, CA",Enterprise Software & Network Solutions,Information Technology,124500
+data scientist,"Dallas, TX",-1,-1,124500
+data scientist,"San Antonio, TX",Staffing & Outsourcing,Business Services,124500
+data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,124500
+data scientist,"Mountain View, CA",Enterprise Software & Network Solutions,Information Technology,124500
+data scientist,"Atlanta, GA",Computer Hardware & Software,Information Technology,124500
+data scientist,"Memphis, TN",Healthcare Services & Hospitals,Healthcare,124500
+data scientist,"New York, NY",Consulting,Business Services,124500
+data scientist,"New York, NY",Research & Development,Business Services,124500
+data scientist,"Akron, OH",Consumer Products Manufacturing,Manufacturing,124500
+data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,124500
+data scientist,"Blue Ash, OH",Grocery Shops & Supermarkets,Retail,124500
+data scientist,"United States , Raleigh",IT Services,Information Technology,124500
+data scientist,"Appleton, WI",Insurance Operators,Insurance,124500
+data scientist,"Vicksburg, MS",IT Services,Information Technology,124500
+data scientist,"Cambridge, MA",Enterprise Software & Network Solutions,Information Technology,124500
+data scientist,"Novi, MI",Computer Hardware & Software,Information Technology,124500
+data scientist,"San Antonio, TX",Insurance Operators,Insurance,124500
+data scientist,"Philadelphia, PA",Insurance Operators,Insurance,124500
+data scientist,"Pittsburgh, PA",Architectural & Engineering Services,Business Services,124500
+data scientist,"Saint Louis, MO",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,124500
+data scientist,"Austin, TX",Video Games,Media,124500
+data scientist,"Vicksburg, MS",IT Services,Information Technology,57000
+data scientist,"New Orleans, LA",Enterprise Software & Network Solutions,Information Technology,57000
+data scientist,"San Rafael, CA","Department, Clothing, & Shoe Shops",Retail,57000
+data scientist,"New York, NY",Insurance Operators,Insurance,57000
+data scientist,"Stamford, CT","Cable, Internet & Telephone Providers",Telecommunications,57000
+data scientist,"New York, NY",Insurance Operators,Insurance,57000
+data scientist,United States,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,57000
+data scientist,"Alexandria, VA",Internet,Information Technology,57000
+data scientist,"Boston, MA",IT Services,Information Technology,57000
+data scientist,"Seattle, WA",Energy,"Oil, Gas, Energy & Utilities",57000
+data scientist,"San Francisco, CA",Investment Banking & Asset Management,Finance,57000
+data scientist,"Wright Patterson AFB, OH",Government Agencies,Government,57000
+data scientist,United States,Beauty & Personal Accessories Shops,Retail,57000
+data scientist,"Simi Valley, CA",Aerospace & Defence,Aerospace & Defence,57000
+data scientist,"San Francisco, CA",Computer Hardware & Software,Information Technology,57000
+data scientist,"New York, NY",Investment Banking & Asset Management,Finance,57000
+data scientist,"Bethesda, MD",Preschool & Child Care,Education,57000
+data scientist,"Hoopeston, IL",Food & Drink Manufacturing,Manufacturing,57000
+data scientist,"Memphis, TN",Healthcare Services & Hospitals,Healthcare,57000
+data scientist,"New York, NY",-1,-1,57000
+data scientist,"Madison, WI",Healthcare Services & Hospitals,Healthcare,57000
+data scientist,"San Mateo, CA",Internet,Information Technology,184000
+data scientist,"South San Francisco, CA",Enterprise Software & Network Solutions,Information Technology,184000
+data scientist,"Seattle, WA",Insurance Operators,Insurance,184000
+data scientist,"Rancho Cucamonga, CA",Healthcare Services & Hospitals,Healthcare,184000
+data scientist,"Jamaica, NY",Consulting,Business Services,184000
+data scientist,"San Mateo, CA",Investment Banking & Asset Management,Finance,184000
+data scientist,"Fort Belvoir, VA",Consulting,Business Services,184000
+data scientist,"Chicago, IL",Insurance Operators,Insurance,184000
+data scientist,"Herndon, VA",Aerospace & Defence,Aerospace & Defence,184000
+data scientist,"Washington, DC",Internet,Information Technology,184000
+data scientist,"San Antonio, TX",Insurance Operators,Insurance,184000
+data scientist,"Atlanta, GA",IT Services,Information Technology,184000
+data scientist,"Vail, CO",Healthcare Services & Hospitals,Healthcare,184000
+data scientist,"Austin, TX",Computer Hardware & Software,Information Technology,184000
+data scientist,"Los Angeles, CA",Advertising & Marketing,Business Services,184000
+data scientist,"Saint Louis, MO",Staffing & Outsourcing,Business Services,184000
+data scientist,Remote,Internet,Information Technology,184000
+data scientist,"Memphis, TN",Healthcare Services & Hospitals,Healthcare,184000
+data scientist,"Kansas City, MO",Insurance Operators,Insurance,184000
+data scientist,"Pittsburgh, PA",Colleges & Universities,Education,184000
+data scientist,"Albany, NY",Consulting,Business Services,184000
+data scientist,"Philadelphia, PA",Healthcare Services & Hospitals,Healthcare,111000
+data scientist,"Chicago, IL",Investment Banking & Asset Management,Finance,111000
+data scientist,"Windsor, CT",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,111000
+data scientist,"San Diego, CA",Consulting,Business Services,111000
+data scientist,"Houston, TX",IT Services,Information Technology,111000
+data scientist,"McLean, VA",Aerospace & Defence,Aerospace & Defence,111000
+data scientist,"Omaha, NE",Transportation Management,Transportation & Logistics,111000
+data scientist,"Madison, WI",Healthcare Services & Hospitals,Healthcare,111000
+data scientist,"Madison, WI",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,111000
+data scientist,"Indianapolis, IN",Architectural & Engineering Services,Business Services,111000
+data scientist,"Memphis, TN",Healthcare Services & Hospitals,Healthcare,111000
+data scientist,"Tulsa, OK",Oil & Gas Exploration & Production,"Oil, Gas, Energy & Utilities",111000
+data scientist,"Aliso Viejo, CA",Video Games,Media,111000
+data scientist,"Des Moines, IA",Insurance Operators,Insurance,111000
+data scientist,"Bloomington, MN",IT Services,Information Technology,111000
+data scientist,"Alexandria, VA",IT Services,Information Technology,111000
+data scientist,"San Francisco, CA",Consumer Product Hire,Consumer Services,111000
+data scientist,"New Haven, CT",Architectural & Engineering Services,Business Services,111000
+data scientist,"San Bruno, CA",Staffing & Outsourcing,Business Services,111000
+data scientist,"Reston, VA",IT Services,Information Technology,111000
+data scientist,"San Francisco, CA",Express Delivery Services,Transportation & Logistics,111000
+data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,111000
+data scientist,"Baltimore, MD",Enterprise Software & Network Solutions,Information Technology,111000
+data scientist,"Boston, MA",Insurance Operators,Insurance,111000
+data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,75500
+data scientist,"Waltham, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,75500
+data scientist,"Blue Bell, PA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,75500
+data scientist,"Chicago, IL",Enterprise Software & Network Solutions,Information Technology,75500
+data scientist,"Reston, VA",IT Services,Information Technology,75500
+data scientist,"Orchard Park, NY",Social Services,Non-Profits,75500
+data scientist,"Beavercreek, OH",Government Agencies,Government,75500
+data scientist,"Thousand Oaks, CA",Consulting,Business Services,75500
+data scientist,"Saint Louis, MO",Computer Hardware & Software,Information Technology,75500
+data scientist,"San Francisco, CA",Internet,Information Technology,75500
+data scientist,"Thousand Oaks, CA",Staffing & Outsourcing,Business Services,75500
+data scientist,"Springfield, VA",IT Services,Information Technology,75500
+data scientist,"Newton, MA",Electrical & Electronic Manufacturing,Manufacturing,75500
+data scientist,"Washington, DC",IT Services,Information Technology,75500
+data scientist,"New York, NY",Healthcare Services & Hospitals,Healthcare,75500
+data scientist,"Fremont, CA",IT Services,Information Technology,75500
+data scientist,"Columbia, MO",Insurance Operators,Insurance,75500
+data scientist,"Cambridge, MA",Computer Hardware & Software,Information Technology,75500
+data scientist,"Bellevue, WA",Computer Hardware & Software,Information Technology,75500
+data scientist,"Memphis, TN",Healthcare Services & Hospitals,Healthcare,75500
+data scientist,"Santa Barbara, CA",Internet,Information Technology,75500
+data scientist,"Tulsa, OK",Oil & Gas Services,"Oil, Gas, Energy & Utilities",75500
+data scientist,"Campbell, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,75500
+data scientist,"Burlingame, CA",Video Games,Media,130000
+data scientist,"San Bruno, CA",-1,-1,130000
+data scientist,"Winston-Salem, NC",Consumer Products Manufacturing,Manufacturing,130000
+data scientist,"South San Francisco, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,130000
+data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,130000
+data scientist,"New York, NY",Enterprise Software & Network Solutions,Information Technology,130000
+data scientist,"Woodland Hills, CA",Computer Hardware & Software,Information Technology,130000
+data scientist,"Denver, CO",Insurance Operators,Insurance,130000
+data scientist,"Hoboken, NJ",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,130000
+data scientist,"Richmond, VA",Banks & Building Societies,Finance,130000
+data scientist,"Minneapolis, MN",Consulting,Business Services,130000
+data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,130000
+data scientist,"Boston, MA",Consulting,Business Services,130000
+data scientist,"Greenfield, IN",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,130000
+data scientist,"Quincy, MA",Insurance Operators,Insurance,130000
+data scientist,"Aurora, CO",Insurance Operators,Insurance,130000
+data scientist,"Foster City, CA",IT Services,Information Technology,130000
+data scientist,"Rancho Cucamonga, CA",Healthcare Services & Hospitals,Healthcare,130000
+data scientist,"San Bruno, CA",Staffing & Outsourcing,Business Services,130000
+data scientist,"Foster City, CA",Computer Hardware & Software,Information Technology,130000
+data scientist,"Northbrook, IL",Chemical Manufacturing,Manufacturing,130000
+data scientist,"Rancho Cucamonga, CA",Healthcare Services & Hospitals,Healthcare,130000
+data scientist,"Patuxent, Anne Arundel, MD",IT Services,Information Technology,130000
+data scientist,"Huntsville, AL",Investment Banking & Asset Management,Finance,130000
+data scientist,"San Francisco, CA",Computer Hardware & Software,Information Technology,130000
+data scientist,"Tacoma, WA",Wholesale,Business Services,56500
+data scientist,"Seattle, WA",Architectural & Engineering Services,Business Services,56500
+data scientist,"Norwood, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,56500
+data scientist,"Chicago, IL",Healthcare Services & Hospitals,Healthcare,56500
+data scientist,"Fort Belvoir, VA",Aerospace & Defence,Aerospace & Defence,56500
+data scientist,"Redmond, WA",Consulting,Business Services,56500
+data scientist,"Rancho Cucamonga, CA",Healthcare Services & Hospitals,Healthcare,56500
+data scientist,"Washington, DC",Insurance Operators,Insurance,56500
+data scientist,"San Bruno, CA",IT Services,Information Technology,56500
+data scientist,"San Bruno, CA",Utilities,"Oil, Gas, Energy & Utilities",56500
+data scientist,"Irvine, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,56500
+data scientist,"Huntsville, AL",IT Services,Information Technology,56500
+data scientist,"Dulles, VA",IT Services,Information Technology,56500
+data scientist,"San Francisco, CA",Staffing & Outsourcing,Business Services,56500
+data scientist,"Bartlesville, OK",Energy,"Oil, Gas, Energy & Utilities",56500
+data scientist,Virginia,IT Services,Information Technology,56500
+data scientist,"Walnut Creek, CA",Financial Transaction Processing,Finance,56500
+data scientist,"Fremont, CA",Computer Hardware & Software,Information Technology,56500
+data scientist,"Glendale, CA",Primary & Secondary Education,Education,56500
+data scientist,"Rockville, MD",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,56500
+data scientist,"Arlington, VA",IT Services,Information Technology,56500
+data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,56500
+data scientist,"Norwood, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,69500
+data scientist,"North Chicago, IL",Staffing & Outsourcing,Business Services,69500
+data scientist,"Santa Clara, CA",Enterprise Software & Network Solutions,Information Technology,69500
+data scientist,"San Francisco, CA",Computer Hardware & Software,Information Technology,69500
+data scientist,"Vancouver, WA",-1,-1,69500
+data scientist,"Berkeley, CA",-1,-1,69500
+data scientist,"Westminster, CO",Consulting,Business Services,69500
+data scientist,"Irvine, CA",Investment Banking & Asset Management,Finance,69500
+data scientist,"San Antonio, TX",Staffing & Outsourcing,Business Services,69500
+data scientist,"South San Francisco, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,69500
+data scientist,"San Francisco, CA",IT Services,Information Technology,69500
+data scientist,"Collegeville, PA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,69500
+data scientist,"Cambridge, MA",Building & Construction,"Building, Repair & Maintenance",69500
+data scientist,New Jersey,IT Services,Information Technology,69500
+data scientist,"Chicago, IL",Banks & Building Societies,Finance,69500
+data scientist,"Arlington, VA",IT Services,Information Technology,69500
+data scientist,"Pittsburgh, PA",Mining,Mining & Metals,69500
+data scientist,"New York, NY",Computer Hardware & Software,Information Technology,69500
+data scientist,"McLean, VA",Government Agencies,Government,69500
+data scientist,"Columbia, MO",Lending,Finance,69500
+data scientist,"Austin, TX",Advertising & Marketing,Business Services,69500
+data scientist,"Thousand Oaks, CA",Staffing & Outsourcing,Business Services,69500
+data scientist,"Pomona, CA",Utilities,"Oil, Gas, Energy & Utilities",69500
+data scientist,"San Francisco, CA",IT Services,Information Technology,69500
+data scientist,"Concord, CA",Consulting,Business Services,69500
+data scientist,"San Carlos, CA",-1,-1,127500
+data scientist,"Edison, NJ",Healthcare Services & Hospitals,Healthcare,127500
+data scientist,"Monterey, CA",Healthcare Services & Hospitals,Healthcare,127500
+data scientist,"Norwood, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,127500
+data scientist,"San Francisco, CA",Internet,Information Technology,127500
+data scientist,"New York, NY",-1,-1,127500
+data scientist,"San Francisco, CA",-1,-1,127500
+data scientist,"Birmingham, AL",Aerospace & Defence,Aerospace & Defence,127500
+data scientist,"Bayonne, NJ",Staffing & Outsourcing,Business Services,127500
+data scientist,"Brooklyn, NY",Staffing & Outsourcing,Business Services,127500
+data scientist,"San Francisco, CA",Security Services,Business Services,127500
+data scientist,"San Francisco, CA",Venture Capital & Private Equity,Finance,127500
+data scientist,"Folsom, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,127500
+data scientist,"Memphis, TN",Staffing & Outsourcing,Business Services,127500
+data scientist,"Oakland, CA",IT Services,Information Technology,127500
+data scientist,"Monterey, CA",Other Retail Shops,Retail,127500
+data scientist,"Whittier, CA",Computer Hardware & Software,Information Technology,127500
+data scientist,"New York, NY",Accounting,Accounting & Legal,127500
+data scientist,"McLean, VA",Aerospace & Defence,Aerospace & Defence,127500
+data scientist,"Tysons, VA",Enterprise Software & Network Solutions,Information Technology,127500
+data scientist,"Dallas, TX",IT Services,Information Technology,127500
+data scientist,"Boston, MA",IT Services,Information Technology,127500
+data scientist,"Beavercreek, OH",Government Agencies,Government,127500
+data scientist,"Somerville, MA",-1,-1,127500
+data scientist,"Richmond, VA",Chemical Manufacturing,Manufacturing,94500
+data scientist,"Providence, RI",Insurance Operators,Insurance,94500
+data scientist,"Hartford, CT",IT Services,Information Technology,94500
+data scientist,"San Jose, CA",Computer Hardware & Software,Information Technology,94500
+data scientist,"Columbia, MD",Consulting,Business Services,94500
+data scientist,"South San Francisco, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,94500
+data scientist,"Raleigh, NC",Industrial Manufacturing,Manufacturing,94500
+data scientist,"Boston, MA",Computer Hardware & Software,Information Technology,94500
+data scientist,"San Francisco, CA",Healthcare Services & Hospitals,Healthcare,94500
+data scientist,"New York, NY",Enterprise Software & Network Solutions,Information Technology,94500
+data scientist,"Arlington, VA",Consulting,Business Services,94500
+data scientist,"Denver, CO",Aerospace & Defence,Aerospace & Defence,94500
+data scientist,"Sunnyvale, CA",Healthcare Services & Hospitals,Healthcare,94500
+data scientist,"Memphis, TN",Healthcare Services & Hospitals,Healthcare,94500
+data scientist,"Dallas, TX",IT Services,Information Technology,94500
+data scientist,"Red Bank, NJ",Banks & Building Societies,Finance,94500
+data scientist,"Annapolis Junction, MD",Computer Hardware & Software,Information Technology,94500
+data scientist,"Menlo Park, CA",Consulting,Business Services,94500
+data scientist,"Norman, OK",IT Services,Information Technology,94500
+data scientist,"San Francisco, CA",Advertising & Marketing,Business Services,94500
+data scientist,"San Francisco, CA",Financial Analytics & Research,Finance,94500
+data scientist,"Richardson Springs, CA",-1,-1,94500
+data scientist,"Merrifield, VA",Banks & Building Societies,Finance,94500
+data scientist,"Washington, DC",Insurance Operators,Insurance,94500
+data scientist,"Allen, TX",Enterprise Software & Network Solutions,Information Technology,94500
+data scientist,"Springfield, VA",IT Services,Information Technology,94500
+data scientist,"Chantilly, VA",IT Services,Information Technology,96500
+data scientist,"Rockville, MD",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,96500
+data scientist,"Florence, KY",Electrical & Electronic Manufacturing,Manufacturing,96500
+data scientist,"Broomfield, CO","Cable, Internet & Telephone Providers",Telecommunications,96500
+data scientist,"Des Moines, IA",Banks & Building Societies,Finance,96500
+data scientist,"Foster City, CA",Enterprise Software & Network Solutions,Information Technology,96500
+data scientist,"Santa Clara, CA",-1,-1,96500
+data scientist,"Salt Lake City, UT",Enterprise Software & Network Solutions,Information Technology,96500
+data scientist,"San Francisco, CA",-1,-1,96500
+data scientist,"Buckhead, GA",-1,-1,96500
+data scientist,"Bellevue, WA",Investment Banking & Asset Management,Finance,96500
+data scientist,"Fort Lauderdale, FL",Enterprise Software & Network Solutions,Information Technology,96500
+data scientist,"Rockville, MD",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,96500
+data scientist,"Lombard, IL",IT Services,Information Technology,96500
+data scientist,"Granite City, IL",Rail Freight,Transportation & Logistics,96500
+data scientist,"Brentwood, TN",Building & Construction,"Building, Repair & Maintenance",96500
+data scientist,"Dallas, TX",Enterprise Software & Network Solutions,Information Technology,96500
+data scientist,"Palo Alto, CA",Enterprise Software & Network Solutions,Information Technology,96500
+data scientist,"San Francisco, CA",Real Estate,Real Estate,96500
+data scientist,"Bristol, CT",-1,-1,96500
+data scientist,"San Jose, CA",-1,-1,96500
+data scientist,"San Francisco, CA",Enterprise Software & Network Solutions,Information Technology,96500
+data scientist,"New York, NY",Computer Hardware & Software,Information Technology,96500
+data scientist,"Germantown, MD",IT Services,Information Technology,96500
+data scientist,"Fishers, IN",Financial Transaction Processing,Finance,96500
+data scientist,"Saint Louis, MO",Building & Construction,"Building, Repair & Maintenance",96500
+data scientist,"Mountain View, CA",Healthcare Services & Hospitals,Healthcare,96500
+data scientist,"Pittsburgh, PA",Colleges & Universities,Education,68500
+data scientist,"New York, NY",-1,-1,68500
+data scientist,"Sunnyvale, CA",IT Services,Information Technology,68500
+data scientist,"Seattle, WA",Internet,Information Technology,68500
+data scientist,"Santa Barbara, CA",Computer Hardware & Software,Information Technology,68500
+data scientist,"Dearborn, MI",Transportation Equipment Manufacturing,Manufacturing,68500
+data scientist,"Wilmington, DE",Investment Banking & Asset Management,Finance,68500
+data scientist,"Miami, FL",-1,-1,68500
+data scientist,"Ann Arbor, MI",Research & Development,Business Services,68500
+data scientist,"Charlottesville, VA",Aerospace & Defence,Aerospace & Defence,68500
+data scientist,"Dearborn, MI",Film Production & Distribution,Media,68500
+data scientist,"Mountain View, CA",Internet,Information Technology,68500
+data scientist,"Oxnard, CA",Consulting,Business Services,68500
+data scientist,"Indianapolis, IN",Consulting,Business Services,68500
+data scientist,"Salt Lake City, UT",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,68500
+data scientist,"Lake Oswego, OR",Computer Hardware & Software,Information Technology,68500
+data scientist,"Charleston, SC",Computer Hardware & Software,Information Technology,68500
+data scientist,"Portland, OR",Internet,Information Technology,68500
+data scientist,"San Francisco, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,68500
+data scientist,"Thousand Oaks, CA",-1,-1,68500
+data scientist,"Keene, NH",IT Services,Information Technology,68500
+data scientist,"New York, NY",Consumer Product Hire,Consumer Services,68500
+data scientist,"Rosemont, IL",Research & Development,Business Services,68500
+data scientist,"Palo Alto, CA",Internet,Information Technology,68500
+data scientist,"Columbia, MD",IT Services,Information Technology,68500
+data scientist,"Napa, CA",Food & Beverage Shops,Retail,68500
+data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,68500
+data scientist,"San Jose, CA",Computer Hardware & Software,Information Technology,68500
+data scientist,"Dayton, OH",Consulting,Business Services,68500
+data scientist,"Reston, VA",IT Services,Information Technology,145500
+data scientist,"Livermore, CA",Government Agencies,Government,145500
+data scientist,"San Diego, CA",Enterprise Software & Network Solutions,Information Technology,145500
+data scientist,"Andover, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,145500
+data scientist,"Richmond, VA",IT Services,Information Technology,145500
+data scientist,"Menlo Park, CA",Architectural & Engineering Services,Business Services,145500
+data scientist,"Aliso Viejo, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,145500
+data scientist,"New Hyde Park, NY",Healthcare Services & Hospitals,Healthcare,145500
+data scientist,"New York, NY",-1,-1,145500
+data scientist,"Chicago, IL",Staffing & Outsourcing,Business Services,145500
+data scientist,"Conshohocken, PA",Home Furniture and Houseware Shops,Retail,145500
+data scientist,"Richmond, VA",-1,-1,145500
+data scientist,"New York, NY",TV Broadcasting & Cable Networks,Media,145500
+data scientist,"Wichita, KS",Banks & Building Societies,Finance,145500
+data scientist,"Philadelphia, PA",IT Services,Information Technology,145500
+data scientist,"Elmhurst, IL",Staffing & Outsourcing,Business Services,145500
+data scientist,"Sandy, UT",Staffing & Outsourcing,Business Services,145500
+data scientist,"Cincinnati, OH",Chemical Manufacturing,Manufacturing,145500
+data scientist,"San Francisco, CA",Other Retail Shops,Retail,145500
+data scientist,"South San Francisco, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,145500
+data scientist,"Overland Park, KS",Telecommunications Services,Telecommunications,145500
+data scientist,"San Bruno, CA",-1,-1,145500
+data scientist,"San Bruno, CA",IT Services,Information Technology,145500
+data scientist,"Philadelphia, PA",Colleges & Universities,Education,145500
+data scientist,"College Park, MD",Colleges & Universities,Education,145500
+data scientist,"Winters, TX",Accounting,Accounting & Legal,0
+data scientist,"Great Neck, NY",Computer Hardware & Software,Information Technology,0
+data scientist,"New York, NY",IT Services,Information Technology,0
+data scientist,"Worcester, MA",Insurance Operators,Insurance,0
+data scientist,"Redmond, WA",-1,-1,0
+data scientist,"Akron, OH",IT Services,Information Technology,0
+data scientist,"Saint Louis, MO",Staffing & Outsourcing,Business Services,0
+data scientist,"Madison, WI",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,0
+data scientist,"Costa Mesa, CA",Lending,Finance,0
+data scientist,"New York, NY",-1,-1,0
+data scientist,"Kansas City, MO",Architectural & Engineering Services,Business Services,0
+data scientist,"Fort Lee, NJ",Advertising & Marketing,Business Services,0
+data scientist,"Houston, TX",-1,-1,0
+data scientist,"Duluth, GA",Insurance Operators,Insurance,0
+data scientist,"West New York, NJ",IT Services,Information Technology,0
+data scientist,"Sterling, VA",IT Services,Information Technology,0
+data scientist,"Seattle, WA",-1,-1,0
+data scientist,"Mountain View, CA",Advertising & Marketing,Business Services,0
+data scientist,"Morrisville, NC",Staffing & Outsourcing,Business Services,0
+data scientist,"Seattle, WA",-1,-1,0
+data scientist,"Morrisville, NC",-1,-1,0
+data scientist,"Irvine, CA",IT Services,Information Technology,0
+data scientist,"Kansas City, MO",Membership Organisations,Business Services,0
+data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,0
+data scientist,"New York, NY",Enterprise Software & Network Solutions,Information Technology,0
+data scientist,"Redmond, WA",-1,-1,0
+data scientist,"Menlo Park, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,0
+data scientist,"King of Prussia, PA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,0
+data scientist,"Henrico, VA",Insurance Operators,Insurance,100500
+data scientist,"Houston, TX",-1,-1,100500
+data scientist,"San Francisco, CA",Enterprise Software & Network Solutions,Information Technology,100500
+data scientist,"Fort Sam Houston, TX",-1,-1,100500
+data scientist,"El Segundo, CA",Internet,Information Technology,100500
+data scientist,"Kirkland, WA",Staffing & Outsourcing,Business Services,100500
+data scientist,"Chesapeake, VA",Aerospace & Defence,Aerospace & Defence,100500
+data scientist,"Buffalo, NY",Enterprise Software & Network Solutions,Information Technology,100500
+data scientist,Remote,Computer Hardware & Software,Information Technology,100500
+data scientist,"Washington, DC",IT Services,Information Technology,100500
+data scientist,"San Jose, CA",Internet,Information Technology,100500
+data scientist,"San Mateo, CA",Sporting Goods Shops,Retail,100500
+data scientist,"Charlotte, NC",IT Services,Information Technology,100500
+data scientist,"Buckhead, GA","Health, Beauty & Fitness",Consumer Services,100500
+data scientist,"Great Neck, NY",-1,-1,100500
+data scientist,"Brooklyn, NY",-1,-1,100500
+data scientist,"Chandler, AZ",Banks & Building Societies,Finance,100500
+data scientist,"Springfield, VA",Government Agencies,Government,100500
+data scientist,"Denver, CO",Computer Hardware & Software,Information Technology,100500
+data scientist,"Sandpoint, ID",Advertising & Marketing,Business Services,100500
+data scientist,"San Francisco, CA",Enterprise Software & Network Solutions,Information Technology,100500
+data scientist,"Dayton, OH",Consulting,Business Services,100500
+data scientist,"Seattle, WA",-1,-1,100500
+data scientist,"San Ramon, CA",Advertising & Marketing,Business Services,100500
+data scientist,Remote,IT Services,Information Technology,100500
+data scientist,"Richmond, VA",Staffing & Outsourcing,Business Services,100500
+data scientist,"Saint Petersburg Beach, FL",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,100500
+data scientist,"Nashville, TN",IT Services,Information Technology,100500
+data scientist,"Madison, WI",-1,-1,97000
+data scientist,"San Francisco, CA",Research & Development,Business Services,97000
+data scientist,"New York, NY",Healthcare Services & Hospitals,Healthcare,97000
+data scientist,"Pittsburgh, PA",Healthcare Services & Hospitals,Healthcare,97000
+data scientist,"Rosemont, IL",Staffing & Outsourcing,Business Services,97000
+data scientist,"Concord, CA",Banks & Building Societies,Finance,97000
+data scientist,"Salt Lake City, UT",Healthcare Services & Hospitals,Healthcare,97000
+data scientist,"Longmont, CO",IT Services,Information Technology,97000
+data scientist,Remote,Internet,Information Technology,97000
+data scientist,"Waltham, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,97000
+data scientist,"Palo Alto, CA",Enterprise Software & Network Solutions,Information Technology,97000
+data scientist,"San Francisco, CA",-1,-1,97000
+data scientist,"New York, NY",Computer Hardware & Software,Information Technology,97000
+data scientist,"Phoenix, AZ",Computer Hardware & Software,Information Technology,97000
+data scientist,"San Francisco, CA",Internet,Information Technology,97000
+data scientist,"Menlo Park, CA",-1,-1,97000
+data scientist,"Cincinnati, OH",Chemical Manufacturing,Manufacturing,97000
+data scientist,"Tysons, VA",Aerospace & Defence,Aerospace & Defence,97000
+data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,97000
+data scientist,"Brentwood, TN",Logistics & Supply Chain,Transportation & Logistics,97000
+data scientist,"Washington, DC",Enterprise Software & Network Solutions,Information Technology,97000
+data scientist,"Chicago, IL",Computer Hardware & Software,Information Technology,97000
+data scientist,"Louisville, KY",Enterprise Software & Network Solutions,Information Technology,97000
+data scientist,"Boston, MA",Consulting,Business Services,97000
+data scientist,"Milwaukee, WI",IT Services,Information Technology,97000
+data scientist,"Aurora, CO",Colleges & Universities,Education,97000
+data scientist,"Cambridge, MA",Enterprise Software & Network Solutions,Information Technology,97000
+data scientist,"Chicago, IL",Staffing & Outsourcing,Business Services,97000
+data scientist,"Charlottesville, VA",Government Agencies,Government,97000
+data scientist,"Houston, TX",Enterprise Software & Network Solutions,Information Technology,119000
+data scientist,"Boston, MA",Insurance Operators,Insurance,119000
+data scientist,"Chantilly, VA",-1,-1,119000
+data scientist,"Arlington, VA",Consumer Products Manufacturing,Manufacturing,119000
+data scientist,"Gresham, OR",Electrical & Electronic Manufacturing,Manufacturing,119000
+data scientist,"Omaha, NE",Consulting,Business Services,119000
+data scientist,"San Francisco, CA",Enterprise Software & Network Solutions,Information Technology,119000
+data scientist,Remote,-1,-1,119000
+data scientist,"Washington, DC",IT Services,Information Technology,119000
+data scientist,"New York, NY","Health, Beauty & Fitness",Consumer Services,119000
+data scientist,"Saint Louis, MO",-1,-1,119000
+data scientist,"Minneapolis, MN",Consulting,Business Services,119000
+data scientist,"Gaithersburg, MD",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,119000
+data scientist,"New York, NY",Financial Transaction Processing,Finance,119000
+data scientist,"Washington, DC",Enterprise Software & Network Solutions,Information Technology,119000
+data scientist,"New York, NY",Staffing & Outsourcing,Business Services,119000
+data scientist,"Seattle, WA",Enterprise Software & Network Solutions,Information Technology,119000
+data scientist,"Holyoke, MA",Banks & Building Societies,Finance,119000
+data scientist,"San Antonio, TX",Computer Hardware & Software,Information Technology,119000
+data scientist,"Boise, ID",-1,-1,119000
+data scientist,"New York, NY",Enterprise Software & Network Solutions,Information Technology,119000
+data scientist,"Saint Louis, MO",Grocery Shops & Supermarkets,Retail,119000
+data scientist,"Denver, CO",Staffing & Outsourcing,Business Services,119000
+data scientist,"Elmhurst, IL",-1,-1,119000
+data scientist,"New York, NY",Banks & Building Societies,Finance,119000
+data scientist,"Herndon, VA",Enterprise Software & Network Solutions,Information Technology,119000
+data scientist,"Cleveland, OH",Industrial Manufacturing,Manufacturing,91000
+data scientist,"Redmond, WA",IT Services,Information Technology,91000
+data scientist,"Washington, DC",-1,-1,91000
+data scientist,"San Carlos, CA",Farm Support Services,Agriculture & Forestry,91000
+data scientist,"San Francisco, CA",Internet,Information Technology,91000
+data scientist,"Seattle, WA",Computer Hardware & Software,Information Technology,91000
+data scientist,"Hoover, AL",Banks & Building Societies,Finance,91000
+data scientist,"Boston, MA",Insurance Operators,Insurance,91000
+data scientist,"Arlington, VA",IT Services,Information Technology,91000
+data scientist,"Menlo Park, CA",Enterprise Software & Network Solutions,Information Technology,91000
+data scientist,"Richmond, VA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,91000
+data scientist,"South San Francisco, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,91000
+data scientist,"San Francisco, CA",Stock Exchanges,Finance,91000
+data scientist,"Hartford, CT",-1,-1,91000
+data scientist,"San Francisco, CA",Computer Hardware & Software,Information Technology,91000
+data scientist,"Oakland, CA",Insurance Operators,Insurance,91000
+data scientist,"Vienna, VA",Staffing & Outsourcing,Business Services,91000
+data scientist,"Philadelphia, PA",Enterprise Software & Network Solutions,Information Technology,91000
+data scientist,"Greenwich, CT",Brokerage Services,Finance,91000
+data scientist,"San Clemente, CA",Healthcare Services & Hospitals,Healthcare,91000
+data scientist,"West Palm Beach, FL",IT Services,Information Technology,91000
+data scientist,"Herndon, VA",Aerospace & Defence,Aerospace & Defence,91000
+data scientist,"San Antonio, TX",Radio,Media,91000
+data scientist,"Sunnyvale, CA",Computer Hardware & Software,Information Technology,91000
+data scientist,"San Francisco, CA",Enterprise Software & Network Solutions,Information Technology,91000
+data scientist,"Boston, MA",Beauty & Personal Accessories Shops,Retail,91000
+data scientist,"Washington, DC",IT Services,Information Technology,91000
+data scientist,"New York, NY",Lending,Finance,110500
+data scientist,"San Mateo, CA",Enterprise Software & Network Solutions,Information Technology,110500
+data scientist,"Washington, DC",Enterprise Software & Network Solutions,Information Technology,110500
+data scientist,"Oshkosh, WI",Transportation Equipment Manufacturing,Manufacturing,110500
+data scientist,"Richmond, VA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,110500
+data scientist,"Springfield, VA",Government Agencies,Government,110500
+data scientist,"Springfield, VA",Aerospace & Defence,Aerospace & Defence,110500
+data scientist,"Irvine, CA",Investment Banking & Asset Management,Finance,110500
+data scientist,"Columbus, OH",Accounting,Accounting & Legal,110500
+data scientist,"Juno Beach, FL",IT Services,Information Technology,110500
+data scientist,"Seattle, WA",Computer Hardware & Software,Information Technology,110500
+data scientist,"Adelphi, MD",IT Services,Information Technology,110500
+data scientist,"Santa Clara, CA",Computer Hardware & Software,Information Technology,110500
+data scientist,"Honolulu, HI",Aerospace & Defence,Aerospace & Defence,110500
+data scientist,"Santa Clara, CA",Computer Hardware & Software,Information Technology,110500
+data scientist,"Birmingham, AL",-1,-1,110500
+data scientist,"Oak Ridge, TN",Aerospace & Defence,Aerospace & Defence,110500
+data scientist,"Boston, MA",-1,-1,110500
+data scientist,"Denver, CO",Consulting,Business Services,110500
+data scientist,"Los Angeles, CA",Internet,Information Technology,110500
+data scientist,"San Francisco, CA",Internet,Information Technology,110500
+data scientist,"Rosemead, CA",Utilities,"Oil, Gas, Energy & Utilities",110500
+data scientist,"Chantilly, VA",Computer Hardware & Software,Information Technology,110500
+data scientist,"High Point, NC",Transportation Management,Transportation & Logistics,110500
+data scientist,"Redwood City, CA",Internet,Information Technology,110500
+data scientist,"North Palm Beach, FL",-1,-1,110500
+data scientist,"New York, NY",Auctions & Galleries,Retail,110500
+data scientist,"Denver, CO",Consulting,Business Services,110500
+data scientist,"Portland, OR",Internet,Information Technology,110500
+data scientist,"Washington, DC",Computer Hardware & Software,Information Technology,130500
+data scientist,"Fort Huachuca, AZ",Aerospace & Defence,Aerospace & Defence,130500
+data scientist,"Columbus, OH",Lending,Finance,130500
+data scientist,"Waltham, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,130500
+data scientist,"Washington, DC",IT Services,Information Technology,130500
+data scientist,"Minneapolis, MN",-1,-1,130500
+data scientist,"Chicago, IL",Consulting,Business Services,130500
+data scientist,"Palo Alto, CA",-1,-1,130500
+data scientist,"Wellesley, MA",Insurance Operators,Insurance,130500
+data scientist,"Sunnyvale, CA",Staffing & Outsourcing,Business Services,130500
+data scientist,Remote,Healthcare Services & Hospitals,Healthcare,130500
+data scientist,"Annapolis Junction, MD",Enterprise Software & Network Solutions,Information Technology,130500
+data scientist,"Reston, VA",IT Services,Information Technology,130500
+data scientist,"Los Angeles, CA",Video Games,Media,130500
+data scientist,"Ithaca, NY",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,130500
+data scientist,"Ewing, NJ",-1,-1,130500
+data scientist,"San Francisco, CA",Computer Hardware & Software,Information Technology,130500
+data scientist,"Natick, MA",Staffing & Outsourcing,Business Services,130500
+data scientist,"Milwaukee, WI",Banks & Building Societies,Finance,130500
+data scientist,"Schaumburg, IL",Insurance Operators,Insurance,130500
+data scientist,"Charlotte, NC",-1,-1,130500
+data scientist,"Chicago, IL",Enterprise Software & Network Solutions,Information Technology,130500
+data scientist,"San Jose, CA",Internet,Information Technology,130500
+data scientist,"San Francisco, CA",-1,-1,130500
+data scientist,"Boston, MA",Healthcare Services & Hospitals,Healthcare,130500
+data scientist,"Cincinnati, OH",IT Services,Information Technology,89500
+data scientist,"Chicago, IL",Advertising & Marketing,Business Services,89500
+data scientist,"Auburn Hills, MI",IT Services,Information Technology,89500
+data scientist,"Boulder, CO",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,89500
+data scientist,"Cedar Rapids, IA",Lending,Finance,89500
+data scientist,"Cedar Rapids, IA",Insurance Operators,Insurance,89500
+data scientist,"Seattle, WA",-1,-1,89500
+data scientist,"Hopkins, MN",Consulting,Business Services,89500
+data scientist,"Fulton, MD",Government Agencies,Government,89500
+data scientist,"Atlanta, GA",IT Services,Information Technology,89500
+data scientist,"Pittsburgh, PA",Enterprise Software & Network Solutions,Information Technology,89500
+data scientist,"New York, NY",Computer Hardware & Software,Information Technology,89500
+data scientist,"Bentonville, AR",-1,-1,89500
+data scientist,"Columbus, OH","Department, Clothing, & Shoe Shops",Retail,89500
+data scientist,"New York, NY",Advertising & Marketing,Business Services,89500
+data scientist,"Berkeley, CA",Regional & County Councils,Government,89500
+data scientist,"Boston, MA",Internet,Information Technology,89500
+data scientist,"Aurora, CO",Colleges & Universities,Education,89500
+data scientist,"Chicago, IL",IT Services,Information Technology,89500
+data scientist,"Houston, TX",Utilities,"Oil, Gas, Energy & Utilities",89500
+data scientist,"Norfolk, VA",Aerospace & Defence,Aerospace & Defence,89500
+data scientist,"Dania Beach, FL",Pet & Pet Supply Shops,Retail,89500
+data scientist,"Emeryville, CA",-1,-1,89500
+data scientist,"Boston, MA",IT Services,Information Technology,89500
+data scientist,Remote,Internet,Information Technology,89500
+data scientist,"Cincinnati, OH",IT Services,Information Technology,89500
+data scientist,"Honolulu, HI",Computer Hardware & Software,Information Technology,89500
+data scientist,"Reston, VA",Consulting,Business Services,89500
+data scientist,"Memphis, TN",Healthcare Services & Hospitals,Healthcare,92000
+data scientist,"San Francisco, CA",Internet,Information Technology,92000
+data scientist,"Tempe, AZ",Petrol Stations,Retail,92000
+data scientist,"Sunnyvale, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,92000
+data scientist,"Lincoln, NE",Enterprise Software & Network Solutions,Information Technology,92000
+data scientist,"Carle Place, NY",Wholesale,Business Services,92000
+data scientist,"Washington, DC",Consulting,Business Services,92000
+data scientist,Virginia,IT Services,Information Technology,92000
+data scientist,United States,Ticket Sales,"Arts, Entertainment & Recreation",92000
+data scientist,"Boca Raton, FL",IT Services,Information Technology,92000
+data scientist,"San Diego, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,92000
+data scientist,"Ithaca, NY",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,92000
+data scientist,"Boston, MA",-1,-1,92000
+data scientist,"San Francisco, CA",Enterprise Software & Network Solutions,Information Technology,92000
+data scientist,"North Chicago, IL",Staffing & Outsourcing,Business Services,92000
+data scientist,"Langley AFB, VA",Research & Development,Business Services,92000
+data scientist,"Fremont, CA",Internet,Information Technology,92000
+data scientist,"Phoenix, AZ",Advertising & Marketing,Business Services,92000
+data scientist,"Quantico, VA",-1,-1,92000
+data scientist,"Houston, TX",Healthcare Services & Hospitals,Healthcare,92000
+data scientist,"Collegeville, PA",IT Services,Information Technology,92000
+data scientist,"Houston, TX",-1,-1,92000
+data scientist,"Richmond, VA",Legal,Accounting & Legal,92000
+data scientist,"Jericho, NY",-1,-1,92000
+data scientist,"New York, NY",Staffing & Outsourcing,Business Services,92000
+data scientist,"Davis, CA",Enterprise Software & Network Solutions,Information Technology,92000
+data scientist,"Alpharetta, GA",IT Services,Information Technology,91500
+data scientist,"Ann Arbor, MI",Internet,Information Technology,91500
+data scientist,"Herndon, VA",Architectural & Engineering Services,Business Services,91500
+data scientist,"Detroit, MI",Real Estate,Real Estate,91500
+data scientist,"New York, NY",-1,-1,91500
+data scientist,"Plano, TX",Insurance Operators,Insurance,91500
+data scientist,"New York, NY",Healthcare Services & Hospitals,Healthcare,91500
+data scientist,"New York, NY",Other Retail Shops,Retail,91500
+data scientist,"Reston, VA",IT Services,Information Technology,91500
+data scientist,"Santa Ana, CA",IT Services,Information Technology,91500
+data scientist,"Chesapeake, VA",Staffing & Outsourcing,Business Services,91500
+data scientist,"Chesapeake, VA",Computer Hardware & Software,Information Technology,91500
+data scientist,"Baltimore, MD",Staffing & Outsourcing,Business Services,91500
+data scientist,"Washington, DC",Lending,Finance,91500
+data scientist,"New York, NY",Staffing & Outsourcing,Business Services,91500
+data scientist,"Seattle, WA",Publishing,Media,91500
+data scientist,Remote,Food & Beverage Shops,Retail,91500
+data scientist,"Panama City, FL",Healthcare Services & Hospitals,Healthcare,91500
+data scientist,"Cambridge, MD",Food & Drink Manufacturing,Manufacturing,91500
+data scientist,"Chicago, IL",Computer Hardware & Software,Information Technology,91500
+data scientist,"Reston, VA",Computer Hardware & Software,Information Technology,91500
+data scientist,"San Francisco, CA",IT Services,Information Technology,91500
+data scientist,"Pittsburgh, PA",Staffing & Outsourcing,Business Services,91500
+data scientist,"Pittsburgh, PA",Consulting,Business Services,91500
+data scientist,Remote,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,91500
+data scientist,"Omaha, NE",-1,-1,91500
+data scientist,"Seattle, WA",Other Retail Shops,Retail,91500
+data scientist,"Chicago, IL",IT Services,Information Technology,109000
+data scientist,"Brea, CA",IT Services,Information Technology,109000
+data scientist,"Chantilly, VA",Aerospace & Defence,Aerospace & Defence,109000
+data scientist,"New York, NY",Enterprise Software & Network Solutions,Information Technology,109000
+data scientist,"New York, NY",Banks & Building Societies,Finance,109000
+data scientist,"Chicago, IL",IT Services,Information Technology,109000
+data scientist,"San Mateo, CA",-1,-1,109000
+data scientist,"New York, NY",Consulting,Business Services,109000
+data scientist,"Chicago, IL",Lending,Finance,109000
+data scientist,"Washington, DC",Enterprise Software & Network Solutions,Information Technology,109000
+data scientist,"New York, NY",Colleges & Universities,Education,109000
+data scientist,"New York, NY",Enterprise Software & Network Solutions,Information Technology,109000
+data scientist,"Dallas, TX",IT Services,Information Technology,109000
+data scientist,"Denver, CO",Consulting,Business Services,109000
+data scientist,"Palo Alto, CA",Staffing & Outsourcing,Business Services,109000
+data scientist,"Thousand Oaks, CA",-1,-1,109000
+data scientist,"Houston, TX",Oil & Gas Services,"Oil, Gas, Energy & Utilities",109000
+data scientist,Virginia,Social Services,Non-Profits,109000
+data scientist,"Chicago, IL",IT Services,Information Technology,109000
+data scientist,Remote,Enterprise Software & Network Solutions,Information Technology,109000
+data scientist,"Santa Clara, CA",IT Services,Information Technology,109000
+data scientist,"McLean, VA",Enterprise Software & Network Solutions,Information Technology,109000
+data scientist,"New York, NY",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,109000
+data scientist,"Southfield, MI",Insurance Agencies & Brokerages,Insurance,109000
+data scientist,"Huntsville, AL",IT Services,Information Technology,109000
+data scientist,"Austin, TX",Internet,Information Technology,109000
+data scientist,"Seattle, WA",Advertising & Marketing,Business Services,109000
+data scientist,"Woonsocket, RI",Consulting,Business Services,80000
+data scientist,"Rockville, MD",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,80000
+data scientist,"Indianapolis, IN",Consulting,Business Services,80000
+data scientist,"Fort Sam Houston, TX",-1,-1,80000
+data scientist,"Clayton, MO",Staffing & Outsourcing,Business Services,80000
+data scientist,"Burbank, CA",TV Broadcasting & Cable Networks,Media,80000
+data scientist,"Rochester, NY",-1,-1,80000
+data scientist,"Denver, CO",Real Estate,Real Estate,80000
+data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,80000
+data scientist,"Nashville, TN",Healthcare Services & Hospitals,Healthcare,80000
+data scientist,"Washington, DC",Government Agencies,Government,80000
+data scientist,"Irving, TX",-1,-1,80000
+data scientist,"Charlotte, NC",-1,-1,80000
+data scientist,"Boston, MA",Computer Hardware & Software,Information Technology,80000
+data scientist,"Carlsbad, CA",-1,-1,80000
+data scientist,"Fort George G Meade, MD",Computer Hardware & Software,Information Technology,80000
+data scientist,"Culver City, CA",Enterprise Software & Network Solutions,Information Technology,80000
+data scientist,"Jersey City, NJ",-1,-1,80000
+data scientist,"Washington, DC",IT Services,Information Technology,80000
+data scientist,"Washington, DC",IT Services,Information Technology,80000
+data scientist,"Waltham, MA",IT Services,Information Technology,80000
+data scientist,"Seattle, WA",Consumer Products Manufacturing,Manufacturing,80000
+data scientist,"New York, NY",Computer Hardware & Software,Information Technology,80000
+data scientist,"Valencia, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,80000
+data scientist,"Irwindale, CA",-1,-1,80000
+data scientist,"San Mateo, CA",Computer Hardware & Software,Information Technology,80000
+data scientist,"Jersey City, NJ",IT Services,Information Technology,80000
+data scientist,"Pittsburgh, PA",IT Services,Information Technology,121500
+data scientist,"Herndon, VA",Computer Hardware & Software,Information Technology,121500
+data scientist,"San Francisco, CA",-1,-1,121500
+data scientist,"Atlanta, GA",IT Services,Information Technology,121500
+data scientist,"Seattle, WA",-1,-1,121500
+data scientist,"Dallas, TX",Banks & Building Societies,Finance,121500
+data scientist,"Washington, DC",Investment Banking & Asset Management,Finance,121500
+data scientist,"Chicago, IL",Enterprise Software & Network Solutions,Information Technology,121500
+data scientist,"New York, NY",Consulting,Business Services,121500
+data scientist,"Juno Beach, FL",IT Services,Information Technology,121500
+data scientist,"Minneapolis, MN",Enterprise Software & Network Solutions,Information Technology,121500
+data scientist,"Raleigh, NC",IT Services,Information Technology,121500
+data scientist,"Seattle, WA",Internet,Information Technology,121500
+data scientist,"Cary, NC",IT Services,Information Technology,121500
+data scientist,"San Carlos, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,121500
+data scientist,"Boston, MA",Investment Banking & Asset Management,Finance,121500
+data scientist,"Boulder, CO",Internet,Information Technology,121500
+data scientist,"Gwynn Oak, MD",IT Services,Information Technology,121500
+data scientist,"Atlanta, GA",Enterprise Software & Network Solutions,Information Technology,121500
+data scientist,"Fairfax, VA",Computer Hardware & Software,Information Technology,121500
+data scientist,"Aliso Viejo, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,121500
+data scientist,"Omaha, NE",-1,-1,121500
+data scientist,"Bethesda, MD",Enterprise Software & Network Solutions,Information Technology,121500
+data scientist,"Cambridge, MA",Staffing & Outsourcing,Business Services,121500
+data scientist,"Birmingham, AL",-1,-1,121500
+data scientist,"Austin, TX",Enterprise Software & Network Solutions,Information Technology,121500
+data scientist,"Irving, TX",Staffing & Outsourcing,Business Services,121500
+data scientist,"New York, NY",Enterprise Software & Network Solutions,Information Technology,121500
+data scientist,"Seattle, WA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,121500
+junior data scientist,"South San Francisco, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,84500
+junior data scientist,"New Bedford, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,84500
+junior data scientist,"Smithfield, RI",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,126500
+junior data scientist,"Boston, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,41600
+junior data scientist,"Worcester, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,99500
+junior data scientist,"Raleigh, NC",Healthcare Services & Hospitals,Healthcare,124500
+junior data scientist,"Bothell, WA",Utilities,"Oil, Gas, Energy & Utilities",184000
+junior data scientist,"Fargo, ND",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,111000
+junior data scientist,"South Plainfield, NJ",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,75500
+junior data scientist,"Stamford, CT","Cable, Internet & Telephone Providers",Telecommunications,69500
+junior data scientist,"Gaithersburg, MD",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,127500
+junior data scientist,"Richmond, VA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,127500
+junior data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,94500
+junior data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,96500
+junior data scientist,"Boston, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,145500
+junior data scientist,"Huntsville, AL",Aerospace & Defence,Aerospace & Defence,92000
+junior data scientist,"Richmond, VA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,92000
+junior data scientist,"South San Francisco, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,91500
+junior data scientist,"Harrisburg, PA",Advertising & Marketing,Business Services,109000
+junior data scientist,"New York, NY",Investment Banking & Asset Management,Finance,109000
+senior data scientist,"Atlanta, GA",Internet,Information Technology,84500
+senior data scientist,"Dallas, TX",Security Services,Business Services,84500
+senior data scientist,"Lehi, UT",Lending,Finance,84500
+senior data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,84500
+senior data scientist,"Denver, CO",Advertising & Marketing,Business Services,84500
+senior data scientist,"Alexandria, VA",Research & Development,Business Services,84500
+senior data scientist,"Salt Lake City, UT",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,84500
+senior data scientist,"Bedford, MA",-1,-1,126500
+senior data scientist,"Seattle, WA",Computer Hardware & Software,Information Technology,126500
+senior data scientist,"Herndon, VA",Aerospace & Defence,Aerospace & Defence,126500
+senior data scientist,"San Francisco, CA",IT Services,Information Technology,41600
+senior data scientist,"San Francisco, CA",Insurance Operators,Insurance,41600
+senior data scientist,"Raleigh, NC",Enterprise Software & Network Solutions,Information Technology,41600
+senior data scientist,"Madison, WI",Healthcare Services & Hospitals,Healthcare,41600
+senior data scientist,"Burlington, MA",IT Services,Information Technology,41600
+senior data scientist,"Austin, TX",Enterprise Software & Network Solutions,Information Technology,41600
+senior data scientist,"Chicago, IL",Staffing & Outsourcing,Business Services,41600
+senior data scientist,"Centennial, CO",Wholesale,Business Services,99500
+senior data scientist,"Sheboygan, WI",Insurance Operators,Insurance,99500
+senior data scientist,"Cincinnati, OH",Advertising & Marketing,Business Services,99500
+senior data scientist,"Provo, UT",Consumer Products Manufacturing,Manufacturing,99500
+senior data scientist,"Detroit, MI",Advertising & Marketing,Business Services,99500
+senior data scientist,"San Francisco, CA",Internet,Information Technology,99500
+senior data scientist,"Los Angeles, CA",Computer Hardware & Software,Information Technology,99500
+senior data scientist,"San Francisco, CA",Wholesale,Business Services,124500
+senior data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,124500
+senior data scientist,"Madison, WI",Healthcare Services & Hospitals,Healthcare,124500
+senior data scientist,"Indianapolis, IN",Consulting,Business Services,124500
+senior data scientist,"Westminster, CO",Consulting,Business Services,124500
+senior data scientist,"Cambridge, MA",Research & Development,Business Services,124500
+senior data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,124500
+senior data scientist,"Winston-Salem, NC",Consumer Products Manufacturing,Manufacturing,57000
+senior data scientist,"Bothell, WA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,57000
+senior data scientist,"Irvine, CA",Video Games,Media,57000
+senior data scientist,"Winston-Salem, NC",Consumer Products Manufacturing,Manufacturing,57000
+senior data scientist,"Chicago, IL",Insurance Operators,Insurance,57000
+senior data scientist,"Hill AFB, UT",Aerospace & Defence,Aerospace & Defence,57000
+senior data scientist,"San Francisco, CA",Computer Hardware & Software,Information Technology,57000
+senior data scientist,"Raleigh, NC",Healthcare Services & Hospitals,Healthcare,57000
+senior data scientist,"Woodbridge, NJ",Insurance Operators,Insurance,57000
+senior data scientist,"San Francisco, CA",Computer Hardware & Software,Information Technology,184000
+senior data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,184000
+senior data scientist,"Akron, OH",Consumer Products Manufacturing,Manufacturing,184000
+senior data scientist,"South Plainfield, NJ",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,184000
+senior data scientist,"Simi Valley, CA",Aerospace & Defence,Aerospace & Defence,184000
+senior data scientist,"Palo Alto, CA",Computer Hardware & Software,Information Technology,184000
+senior data scientist,"Ann Arbor, MI",Computer Hardware & Software,Information Technology,184000
+senior data scientist,"Richland, WA",Energy,"Oil, Gas, Energy & Utilities",184000
+senior data scientist,"Seattle, WA",Insurance Operators,Insurance,111000
+senior data scientist,"Pomona, CA",Utilities,"Oil, Gas, Energy & Utilities",111000
+senior data scientist,"Santa Monica, CA",Internet,Information Technology,111000
+senior data scientist,"San Diego, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,75500
+senior data scientist,"Herndon, VA",Enterprise Software & Network Solutions,Information Technology,75500
+senior data scientist,"Austin, TX",Enterprise Software & Network Solutions,Information Technology,75500
+senior data scientist,"Fairfax, VA",Aerospace & Defence,Aerospace & Defence,75500
+senior data scientist,"San Francisco, CA",Express Delivery Services,Transportation & Logistics,130000
+senior data scientist,"Boston, MA",Computer Hardware & Software,Information Technology,130000
+senior data scientist,"Fairfax, VA",Aerospace & Defence,Aerospace & Defence,130000
+senior data scientist,"San Diego, CA",Computer Hardware & Software,Information Technology,130000
+senior data scientist,"Denver, CO",Enterprise Software & Network Solutions,Information Technology,56500
+senior data scientist,"Cambridge, MA",Research & Development,Business Services,56500
+senior data scientist,"Denver, CO",Computer Hardware & Software,Information Technology,56500
+senior data scientist,"San Francisco, CA",Computer Hardware & Software,Information Technology,56500
+senior data scientist,"Gaithersburg, MD",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,56500
+senior data scientist,"Baltimore, MD",Advertising & Marketing,Business Services,56500
+senior data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,56500
+senior data scientist,"Cambridge, MA",Banks & Building Societies,Finance,56500
+senior data scientist,"Saint Louis, MO",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,69500
+senior data scientist,"Austin, TX",Video Games,Media,69500
+senior data scientist,"San Francisco, CA",Healthcare Services & Hospitals,Healthcare,69500
+senior data scientist,"Richmond, VA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,69500
+senior data scientist,"Durham, NC",Computer Hardware & Software,Information Technology,127500
+senior data scientist,"Chicago, IL",Financial Analytics & Research,Finance,127500
+senior data scientist,"Birmingham, AL",Consumer Product Hire,Consumer Services,127500
+senior data scientist,"Santa Clara, CA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,127500
+senior data scientist,"Santa Clara, CA",Staffing & Outsourcing,Business Services,94500
+senior data scientist,"Gaithersburg, MD",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,94500
+senior data scientist,"Atlanta, GA",IT Services,Information Technology,94500
+senior data scientist,"Broomfield, CO","Cable, Internet & Telephone Providers",Telecommunications,96500
+senior data scientist,"Rocklin, CA",Banks & Building Societies,Finance,96500
+senior data scientist,"Watertown, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,68500
+senior data scientist,"Boston, MA",Insurance Operators,Insurance,145500
+senior data scientist,"Malvern, PA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,145500
+senior data scientist,"Bedford, MA",Government Agencies,Government,145500
+senior data scientist,"Beavercreek, OH",Government Agencies,Government,0
+senior data scientist,"Ithaca, NY",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,0
+senior data scientist,"Richmond, VA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,100500
+senior data scientist,"Philadelphia, PA",Healthcare Services & Hospitals,Healthcare,97000
+senior data scientist,"San Francisco, CA",Internet,Information Technology,119000
+senior data scientist,"San Francisco, CA",Internet,Information Technology,119000
+senior data scientist,"Saint Louis, MO",Staffing & Outsourcing,Business Services,119000
+senior data scientist,"San Francisco, CA",Computer Hardware & Software,Information Technology,119000
+senior data scientist,"New York, NY",Insurance Operators,Insurance,91000
+senior data scientist,"Broomfield, CO","Cable, Internet & Telephone Providers",Telecommunications,110500
+senior data scientist,"Twin Falls, ID",Food & Drink Manufacturing,Manufacturing,130500
+senior data scientist,"San Francisco, CA",Internet,Information Technology,130500
+senior data scientist,"San Francisco, CA",Healthcare Services & Hospitals,Healthcare,130500
+senior data scientist,"Arlington, VA",Consulting,Business Services,130500
+senior data scientist,"Bothell, WA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,89500
+senior data scientist,"New York, NY",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,89500
+senior data scientist,"Providence, RI",Insurance Operators,Insurance,92000
+senior data scientist,"Fort Belvoir, VA",Enterprise Software & Network Solutions,Information Technology,91500
+senior data scientist,"Seattle, WA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,109000
+senior data scientist,Remote,Lending,Finance,80000
+senior data scientist,"Cambridge, MA",Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,80000
+senior data scientist,"McLean, VA",Government Agencies,Government,80000
