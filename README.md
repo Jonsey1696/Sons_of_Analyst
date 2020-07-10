@@ -26,3 +26,12 @@ Project 1
 
 
  If we were given more time and resources for this project we would like to be able to gather a wider range of data points.  Due to the cost of using the major job boards APIs we were unable to select a longer range of postings to be able to diaplay growth in the industry, rising and falling relevant skills, and increase in salary as adoption of this technology becomes more prevalent.
+
+## Cleanup Script Order
+Run Order | File Name
+------------- | -------------
+1 | kaggle_csv_to_df.ipynb
+2 | skills_data.ipynb
+3 | final_skills.ipynb
+4 | add_job_skills.ipynb
+
